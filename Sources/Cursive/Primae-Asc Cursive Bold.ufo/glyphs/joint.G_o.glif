@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="joint.Go" format="2">
+	<advance width="427"/>
+	<outline>
+		<contour>
+			<point x="-28" y="-9" type="curve" smooth="yes"/>
+			<point x="259" y="209"/>
+			<point x="514" y="472"/>
+			<point x="722" y="762" type="curve" smooth="yes"/>
+			<point x="752" y="804"/>
+			<point x="759" y="826"/>
+			<point x="759" y="846" type="curve" smooth="yes"/>
+			<point x="759" y="869"/>
+			<point x="726" y="902"/>
+			<point x="692" y="902" type="curve" smooth="yes"/>
+			<point x="669" y="902"/>
+			<point x="641" y="892"/>
+			<point x="603" y="838" type="curve" smooth="yes"/>
+			<point x="447" y="621"/>
+			<point x="166" y="317"/>
+			<point x="-64" y="145" type="curve" smooth="yes"/>
+			<point x="-132" y="94"/>
+			<point x="-142" y="72"/>
+			<point x="-142" y="45" type="curve" smooth="yes"/>
+			<point x="-142" y="-1"/>
+			<point x="-115" y="-34"/>
+			<point x="-86" y="-34" type="curve" smooth="yes"/>
+			<point x="-76" y="-34"/>
+			<point x="-57" y="-31"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2025-05-23 08:29:30 +0000</string>
+			<key>public.markColor</key>
+			<string>0.65,0.48,0.2,1</string>
+		</dict>
+	</lib>
+	<note>
+joint.ga
+</note>
+</glyph>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="onehalf" format="2">
+	<unicode hex="00BD"/>
+	<advance width="1769"/>
+	<outline>
+		<component base="onesuperior" yOffset="-347" identifier="F4497C48"/>
+		<component base="fraction" xOffset="588" identifier="4A8AFD50"/>
+		<component base="twosuperior" xOffset="1001" yOffset="-1000" identifier="587BCD1C"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2025-06-26 12:40:16 +0000</string>
+			<key>public.markColor</key>
+			<string>0.06,0.6,0.98,1</string>
+			<key>public.objectLibs</key>
+			<dict>
+				<key>4A8AFD50</key>
+				<dict>
+					<key>com.schriftgestaltung.alignment</key>
+					<integer>-1</integer>
+				</dict>
+				<key>587BCD1C</key>
+				<dict>
+					<key>com.schriftgestaltung.alignment</key>
+					<integer>-1</integer>
+				</dict>
+				<key>F4497C48</key>
+				<dict>
+					<key>com.schriftgestaltung.alignment</key>
+					<integer>-1</integer>
+				</dict>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lacute" format="2">
+	<unicode hex="0139"/>
+	<advance width="1000"/>
+	<outline>
+		<component base="L"/>
+		<component base="acutecomb.case" xOffset="67" yOffset="490"/>
+	</outline>
+	<anchor name="bottom" x="499" y="-11"/>
+	<anchor name="center" x="256" y="734"/>
+	<anchor name="top" x="342" y="1943"/>
+	<anchor name="topright" x="431" y="1400"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2025-04-24 07:03:58 +0000</string>
+			<key>public.markColor</key>
+			<string>0,0.2,0.88,1</string>
+		</dict>
+	</lib>
+</glyph>

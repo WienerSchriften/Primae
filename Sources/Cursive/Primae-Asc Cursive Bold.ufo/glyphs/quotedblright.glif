@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotedblright" format="2">
+	<unicode hex="201D"/>
+	<advance width="814"/>
+	<outline>
+		<component base="quoteright" identifier="58E48AA4"/>
+		<component base="quoteright" xOffset="330" identifier="2B92ACB3"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2025-10-01 09:35:41 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>quoteright</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>quoteright</string>
+			<key>public.markColor</key>
+			<string>0,0.2,0.88,1</string>
+			<key>public.objectLibs</key>
+			<dict>
+				<key>2B92ACB3</key>
+				<dict>
+					<key>com.schriftgestaltung.alignment</key>
+					<integer>-1</integer>
+				</dict>
+				<key>58E48AA4</key>
+				<dict>
+					<key>com.schriftgestaltung.alignment</key>
+					<integer>-1</integer>
+				</dict>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Gbreve" format="2">
+	<unicode hex="011E"/>
+	<advance width="1146"/>
+	<outline>
+		<component base="G"/>
+		<component base="brevecomb.case" xOffset="745" yOffset="630"/>
+	</outline>
+	<anchor name="bottom" x="550" y="-670"/>
+	<anchor name="top" x="1032" y="1980"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2025-03-12 14:01:37 +0000</string>
+			<key>public.markColor</key>
+			<string>0,0.2,0.88,1</string>
+		</dict>
+	</lib>
+</glyph>

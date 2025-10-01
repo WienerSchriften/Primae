@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="plusminus" format="2">
+	<unicode hex="00B1"/>
+	<advance width="1200"/>
+	<outline>
+		<component base="plus" identifier="37D8BDE0"/>
+		<component base="minus" xOffset="-30" yOffset="-660" identifier="DEF5B1A5"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2025-06-26 12:40:16 +0000</string>
+			<key>public.markColor</key>
+			<string>0,0.2,0.88,1</string>
+			<key>public.objectLibs</key>
+			<dict>
+				<key>37D8BDE0</key>
+				<dict>
+					<key>com.schriftgestaltung.alignment</key>
+					<integer>-1</integer>
+				</dict>
+				<key>DEF5B1A5</key>
+				<dict>
+					<key>com.schriftgestaltung.alignment</key>
+					<integer>-1</integer>
+				</dict>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

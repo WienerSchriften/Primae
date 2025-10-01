@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ytilde" format="2">
+	<unicode hex="1EF9"/>
+	<advance width="804"/>
+	<outline>
+		<component base="y"/>
+		<component base="tildecomb" xOffset="318" yOffset="10"/>
+	</outline>
+	<anchor name="top" x="708" y="1388"/>
+	<anchor name="topright" x="920" y="920"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2025-03-12 14:01:37 +0000</string>
+			<key>public.markColor</key>
+			<string>0.99,0.62,0.11,1</string>
+		</dict>
+	</lib>
+</glyph>

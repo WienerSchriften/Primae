@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gcommaaccent.isol" format="2">
+	<advance width="1114"/>
+	<outline>
+		<component base="g.isol"/>
+		<component base="commaturnedabovecomb" xOffset="484"/>
+	</outline>
+	<anchor name="bottom" x="222" y="-690"/>
+	<anchor name="top" x="772" y="1509"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2025-03-12 14:01:37 +0000</string>
+			<key>public.markColor</key>
+			<string>0,0.2,0.88,1</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="fiveeighths" format="2">
+	<unicode hex="215D"/>
+	<advance width="2017"/>
+	<outline>
+		<component base="fivesuperior" yOffset="-347" identifier="4375195D"/>
+		<component base="fraction" xOffset="824" identifier="B4EBF94E"/>
+		<component base="eightsuperior" xOffset="1167" yOffset="-1000" identifier="F36DFC8C"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2025-10-01 09:35:41 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>five.numr</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>five.numr</string>
+			<key>public.markColor</key>
+			<string>0.06,0.6,0.98,1</string>
+			<key>public.objectLibs</key>
+			<dict>
+				<key>4375195D</key>
+				<dict>
+					<key>com.schriftgestaltung.alignment</key>
+					<integer>-1</integer>
+				</dict>
+				<key>B4EBF94E</key>
+				<dict>
+					<key>com.schriftgestaltung.alignment</key>
+					<integer>-1</integer>
+				</dict>
+				<key>F36DFC8C</key>
+				<dict>
+					<key>com.schriftgestaltung.alignment</key>
+					<integer>-1</integer>
+				</dict>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

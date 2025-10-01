@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ogonek" format="2">
+	<unicode hex="02DB"/>
+	<advance width="553"/>
+	<outline>
+		<component base="ogonekcomb" identifier="532FEF10"/>
+	</outline>
+	<anchor name="_ogonek" x="340" y="0"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2025-06-26 12:40:16 +0000</string>
+			<key>public.markColor</key>
+			<string>0,0.2,0.88,1</string>
+			<key>public.objectLibs</key>
+			<dict>
+				<key>532FEF10</key>
+				<dict>
+					<key>com.schriftgestaltung.alignment</key>
+					<integer>1</integer>
+				</dict>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

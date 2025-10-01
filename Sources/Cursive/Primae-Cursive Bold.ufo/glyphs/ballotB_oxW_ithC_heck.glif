@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ballotBoxWithCheck" format="2">
+	<unicode hex="2611"/>
+	<advance width="1731"/>
+	<outline>
+		<component base="ballotBox" identifier="1155454C"/>
+		<component base="checkmark" xOffset="288" yOffset="402" identifier="08C642D8"/>
+	</outline>
+	<anchor name="check" x="720" y="390"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2025-10-01 09:35:41 +0000</string>
+			<key>public.markColor</key>
+			<string>0,0.2,0.88,1</string>
+			<key>public.objectLibs</key>
+			<dict>
+				<key>08C642D8</key>
+				<dict>
+					<key>com.schriftgestaltung.alignment</key>
+					<integer>1</integer>
+				</dict>
+				<key>1155454C</key>
+				<dict>
+					<key>com.schriftgestaltung.alignment</key>
+					<integer>1</integer>
+				</dict>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

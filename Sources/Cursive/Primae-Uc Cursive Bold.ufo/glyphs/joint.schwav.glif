@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="joint.schwav" format="2">
+	<advance width="224"/>
+	<outline>
+		<contour>
+			<point x="23" y="586" type="curve" smooth="yes"/>
+			<point x="183" y="659"/>
+			<point x="333" y="755"/>
+			<point x="448" y="860" type="curve" smooth="yes"/>
+			<point x="495" y="903"/>
+			<point x="498" y="943"/>
+			<point x="498" y="972" type="curve" smooth="yes"/>
+			<point x="498" y="993"/>
+			<point x="482" y="1019"/>
+			<point x="448" y="1019" type="curve" smooth="yes"/>
+			<point x="415" y="1019"/>
+			<point x="393" y="1007"/>
+			<point x="372" y="987" type="curve" smooth="yes"/>
+			<point x="299" y="916"/>
+			<point x="184" y="815"/>
+			<point x="-8" y="737" type="curve" smooth="yes"/>
+			<point x="-71" y="712"/>
+			<point x="-91" y="660"/>
+			<point x="-91" y="613" type="curve" smooth="yes"/>
+			<point x="-91" y="582"/>
+			<point x="-80" y="562"/>
+			<point x="-54" y="562" type="curve" smooth="yes"/>
+			<point x="-39" y="562"/>
+			<point x="-17" y="568"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2025-03-12 14:01:37 +0000</string>
+			<key>public.markColor</key>
+			<string>0.65,0.48,0.2,1</string>
+		</dict>
+	</lib>
+</glyph>

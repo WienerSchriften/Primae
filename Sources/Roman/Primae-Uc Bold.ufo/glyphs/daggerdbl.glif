@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="daggerdbl" format="2">
+	<unicode hex="2021"/>
+	<advance width="821"/>
+	<outline>
+		<contour>
+			<point x="395" y="396" type="curve" smooth="yes"/>
+			<point x="451" y="396"/>
+			<point x="488" y="419"/>
+			<point x="495" y="498" type="curve" smooth="yes"/>
+			<point x="583" y="1496" type="line" smooth="yes"/>
+			<point x="586" y="1529"/>
+			<point x="587" y="1540"/>
+			<point x="587" y="1550" type="curve" smooth="yes"/>
+			<point x="587" y="1604"/>
+			<point x="545" y="1625"/>
+			<point x="474" y="1625" type="curve" smooth="yes"/>
+			<point x="385" y="1625"/>
+			<point x="353" y="1597"/>
+			<point x="349" y="1521" type="curve" smooth="yes"/>
+			<point x="304" y="597" type="line" smooth="yes"/>
+			<point x="301" y="542"/>
+			<point x="300" y="509"/>
+			<point x="300" y="487" type="curve" smooth="yes"/>
+			<point x="300" y="421"/>
+			<point x="335" y="396"/>
+		</contour>
+		<contour>
+			<point x="232" y="1204" type="curve" smooth="yes"/>
+			<point x="680" y="1204" type="line" smooth="yes"/>
+			<point x="734" y="1204"/>
+			<point x="761" y="1246"/>
+			<point x="761" y="1301" type="curve" smooth="yes"/>
+			<point x="761" y="1360"/>
+			<point x="741" y="1392"/>
+			<point x="687" y="1392" type="curve" smooth="yes"/>
+			<point x="241" y="1392" type="line" smooth="yes"/>
+			<point x="177" y="1392"/>
+			<point x="152" y="1352"/>
+			<point x="152" y="1296" type="curve" smooth="yes"/>
+			<point x="152" y="1250"/>
+			<point x="176" y="1204"/>
+		</contour>
+		<contour>
+			<point x="200" y="700" type="curve" smooth="yes"/>
+			<point x="648" y="700" type="line" smooth="yes"/>
+			<point x="702" y="700"/>
+			<point x="729" y="742"/>
+			<point x="729" y="797" type="curve" smooth="yes"/>
+			<point x="729" y="856"/>
+			<point x="709" y="888"/>
+			<point x="655" y="888" type="curve" smooth="yes"/>
+			<point x="209" y="888" type="line" smooth="yes"/>
+			<point x="145" y="888"/>
+			<point x="120" y="848"/>
+			<point x="120" y="792" type="curve" smooth="yes"/>
+			<point x="120" y="746"/>
+			<point x="144" y="700"/>
+		</contour>
+	</outline>
+	<anchor name="_center" x="463" y="1148"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2025-04-24 07:03:58 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>dagger</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>dagger</string>
+			<key>public.markColor</key>
+			<string>0.67,0.95,0.38,1</string>
+		</dict>
+	</lib>
+</glyph>

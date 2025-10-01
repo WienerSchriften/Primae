@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Scommaaccent" format="2">
+	<unicode hex="0218"/>
+	<advance width="1015"/>
+	<outline>
+		<component base="S"/>
+		<component base="commaaccentcomb.case" xOffset="247"/>
+	</outline>
+	<anchor name="bottom" x="370" y="-537"/>
+	<anchor name="top" x="579" y="1403"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2025-04-24 07:03:58 +0000</string>
+			<key>public.markColor</key>
+			<string>0,0.2,0.88,1</string>
+		</dict>
+	</lib>
+</glyph>

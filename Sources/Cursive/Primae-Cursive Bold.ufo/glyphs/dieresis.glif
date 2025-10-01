@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresis" format="2">
+	<unicode hex="00A8"/>
+	<advance width="478"/>
+	<outline>
+		<component base="dieresiscomb"/>
+	</outline>
+	<anchor name="_top" x="291" y="1005"/>
+	<anchor name="top" x="375" y="1422"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2025-03-12 14:01:37 +0000</string>
+			<key>public.markColor</key>
+			<string>0,0.2,0.88,1</string>
+		</dict>
+	</lib>
+</glyph>

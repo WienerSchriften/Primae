@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="jdotless.fina" format="2">
+	<advance width="555"/>
+	<outline>
+		<contour>
+			<point x="274" y="894" type="curve" smooth="yes"/>
+			<point x="50" y="-48" type="line" smooth="yes"/>
+			<point x="-11" y="-306"/>
+			<point x="-94" y="-396"/>
+			<point x="-191" y="-396" type="curve" smooth="yes"/>
+			<point x="-234" y="-396"/>
+			<point x="-272" y="-380"/>
+			<point x="-302" y="-355" type="curve" smooth="yes"/>
+			<point x="-321" y="-339"/>
+			<point x="-332" y="-331"/>
+			<point x="-344" y="-331" type="curve" smooth="yes"/>
+			<point x="-357" y="-331"/>
+			<point x="-372" y="-344"/>
+			<point x="-372" y="-361" type="curve" smooth="yes"/>
+			<point x="-372" y="-376"/>
+			<point x="-363" y="-392"/>
+			<point x="-347" y="-409" type="curve" smooth="yes"/>
+			<point x="-314" y="-443"/>
+			<point x="-255" y="-470"/>
+			<point x="-185" y="-470" type="curve" smooth="yes"/>
+			<point x="-57" y="-470"/>
+			<point x="48" y="-380"/>
+			<point x="119" y="-80" type="curve" smooth="yes"/>
+			<point x="335" y="831" type="line" smooth="yes"/>
+			<point x="341" y="857"/>
+			<point x="348" y="889"/>
+			<point x="348" y="901" type="curve" smooth="yes"/>
+			<point x="348" y="929"/>
+			<point x="335" y="935"/>
+			<point x="314" y="935" type="curve" smooth="yes"/>
+			<point x="294" y="935"/>
+			<point x="281" y="922"/>
+		</contour>
+	</outline>
+	<anchor name="bottom" x="-213" y="-469"/>
+	<anchor name="top" x="318" y="920"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2025-04-09 09:47:06 +0000</string>
+			<key>public.markColor</key>
+			<string>0.98,0.36,0.67,1</string>
+		</dict>
+	</lib>
+</glyph>

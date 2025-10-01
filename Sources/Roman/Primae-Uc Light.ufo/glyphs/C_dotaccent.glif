@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Cdotaccent" format="2">
+	<unicode hex="010A"/>
+	<advance width="1125"/>
+	<outline>
+		<component base="C"/>
+		<component base="dotaccentcomb" xOffset="623" yOffset="480"/>
+	</outline>
+	<anchor name="bottom" x="622" y="0"/>
+	<anchor name="top" x="769" y="1802"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2025-04-24 07:13:34 +0000</string>
+			<key>public.markColor</key>
+			<string>0,0.2,0.88,1</string>
+		</dict>
+	</lib>
+</glyph>

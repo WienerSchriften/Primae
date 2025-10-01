@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="joint.nh" format="2">
+	<advance width="458"/>
+	<outline>
+		<contour>
+			<point x="-50" y="-12" type="curve" smooth="yes"/>
+			<point x="140" y="-12"/>
+			<point x="297" y="110"/>
+			<point x="765" y="826" type="curve" smooth="yes"/>
+			<point x="802" y="882"/>
+			<point x="810" y="909"/>
+			<point x="810" y="928" type="curve" smooth="yes"/>
+			<point x="810" y="958"/>
+			<point x="758" y="976"/>
+			<point x="734" y="976" type="curve" smooth="yes"/>
+			<point x="707" y="976"/>
+			<point x="698" y="969"/>
+			<point x="678" y="940" type="curve" smooth="yes"/>
+			<point x="258" y="311"/>
+			<point x="100" y="188"/>
+			<point x="0" y="188" type="curve" smooth="yes"/>
+			<point x="-44" y="188"/>
+			<point x="-98" y="130"/>
+			<point x="-98" y="73" type="curve" smooth="yes"/>
+			<point x="-98" y="13"/>
+			<point x="-74" y="-12"/>
+		</contour>
+	</outline>
+</glyph>

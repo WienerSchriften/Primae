@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="emdash" format="2">
+	<unicode hex="2014"/>
+	<advance width="2212"/>
+	<outline>
+		<contour>
+			<point x="208" y="560" type="curve" smooth="yes"/>
+			<point x="786" y="560"/>
+			<point x="1460" y="554"/>
+			<point x="1951" y="575" type="curve" smooth="yes"/>
+			<point x="2059" y="580"/>
+			<point x="2097" y="626"/>
+			<point x="2097" y="694" type="curve" smooth="yes"/>
+			<point x="2097" y="745"/>
+			<point x="2063" y="780"/>
+			<point x="2012" y="780" type="curve" smooth="yes"/>
+			<point x="1944" y="780"/>
+			<point x="1881" y="778"/>
+			<point x="1764" y="776" type="curve" smooth="yes"/>
+			<point x="1481" y="771"/>
+			<point x="489" y="766"/>
+			<point x="227" y="766" type="curve" smooth="yes"/>
+			<point x="142" y="766"/>
+			<point x="115" y="706"/>
+			<point x="115" y="641" type="curve" smooth="yes"/>
+			<point x="115" y="590"/>
+			<point x="142" y="560"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2025-03-12 14:01:37 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>endash</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>endash</string>
+			<key>public.markColor</key>
+			<string>0.67,0.95,0.38,1</string>
+		</dict>
+	</lib>
+</glyph>

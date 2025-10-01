@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lslash" format="2">
+	<unicode hex="0142"/>
+	<advance width="675"/>
+	<outline>
+		<component base="l" xOffset="83" identifier="237EC917"/>
+		<component base="slashcomb" xOffset="-30" yOffset="35" identifier="4A5E9D98"/>
+	</outline>
+	<anchor name="top" x="389" y="1510"/>
+	<anchor name="bottom" x="395" y="0"/>
+	<anchor name="center" x="348" y="868"/>
+	<anchor name="topright" x="496" y="1400"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2025-06-26 12:40:16 +0000</string>
+			<key>public.markColor</key>
+			<string>0,0.2,0.88,1</string>
+			<key>public.objectLibs</key>
+			<dict>
+				<key>237EC917</key>
+				<dict>
+					<key>com.schriftgestaltung.alignment</key>
+					<integer>-1</integer>
+				</dict>
+				<key>4A5E9D98</key>
+				<dict>
+					<key>com.schriftgestaltung.alignment</key>
+					<integer>-1</integer>
+				</dict>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

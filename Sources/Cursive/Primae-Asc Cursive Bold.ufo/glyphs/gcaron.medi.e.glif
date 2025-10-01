@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gcaron.medi.e" format="2">
+	<advance width="789"/>
+	<outline>
+		<component base="g.medi.e"/>
+		<component base="caroncomb" xOffset="304" yOffset="-20"/>
+	</outline>
+	<anchor name="bottom" x="400" y="-470"/>
+	<anchor name="top" x="659" y="1490"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2025-03-12 14:01:37 +0000</string>
+			<key>public.markColor</key>
+			<string>0.99,0.62,0.11,1</string>
+		</dict>
+	</lib>
+</glyph>

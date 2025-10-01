@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Rcaron" format="2">
+	<unicode hex="0158"/>
+	<advance width="1175"/>
+	<outline>
+		<component base="R"/>
+		<component base="caroncomb.case" xOffset="260" yOffset="488"/>
+	</outline>
+	<anchor name="bottom" x="548" y="0"/>
+	<anchor name="top" x="660" y="1908"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2025-04-24 07:03:58 +0000</string>
+			<key>public.markColor</key>
+			<string>0,0.2,0.88,1</string>
+		</dict>
+	</lib>
+</glyph>

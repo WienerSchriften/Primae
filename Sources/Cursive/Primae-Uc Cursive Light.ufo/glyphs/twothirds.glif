@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="twothirds" format="2">
+	<unicode hex="2154"/>
+	<advance width="1893"/>
+	<outline>
+		<component base="twosuperior" yOffset="-347" identifier="CA7D3D8E"/>
+		<component base="fraction" xOffset="742" identifier="3EF96C3D"/>
+		<component base="threesuperior" xOffset="1134" yOffset="-996" identifier="E7984BC8"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2025-10-01 09:35:41 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>two.numr</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>two.numr</string>
+			<key>public.markColor</key>
+			<string>0.06,0.6,0.98,1</string>
+			<key>public.objectLibs</key>
+			<dict>
+				<key>3EF96C3D</key>
+				<dict>
+					<key>com.schriftgestaltung.alignment</key>
+					<integer>-1</integer>
+				</dict>
+				<key>CA7D3D8E</key>
+				<dict>
+					<key>com.schriftgestaltung.alignment</key>
+					<integer>-1</integer>
+				</dict>
+				<key>E7984BC8</key>
+				<dict>
+					<key>com.schriftgestaltung.alignment</key>
+					<integer>-1</integer>
+				</dict>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

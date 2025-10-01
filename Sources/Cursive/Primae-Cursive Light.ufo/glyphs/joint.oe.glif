@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="joint.oe" format="2">
+	<advance width="120"/>
+	<outline>
+		<contour>
+			<point x="-477" y="833" type="curve" smooth="yes"/>
+			<point x="-477" y="690"/>
+			<point x="-236" y="517"/>
+			<point x="210" y="517" type="curve" smooth="yes"/>
+			<point x="230" y="517"/>
+			<point x="239" y="535"/>
+			<point x="239" y="551" type="curve" smooth="yes"/>
+			<point x="239" y="570"/>
+			<point x="225" y="578"/>
+			<point x="210" y="578" type="curve" smooth="yes"/>
+			<point x="-141" y="578"/>
+			<point x="-405" y="717"/>
+			<point x="-405" y="836" type="curve" smooth="yes"/>
+			<point x="-405" y="859"/>
+			<point x="-392" y="870"/>
+			<point x="-372" y="870" type="curve" smooth="yes"/>
+			<point x="-357" y="870"/>
+			<point x="-347" y="889"/>
+			<point x="-347" y="904" type="curve" smooth="yes"/>
+			<point x="-347" y="919"/>
+			<point x="-362" y="935"/>
+			<point x="-375" y="935" type="curve" smooth="yes"/>
+			<point x="-433" y="935"/>
+			<point x="-477" y="894"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2025-03-12 14:01:37 +0000</string>
+			<key>public.markColor</key>
+			<string>0.65,0.48,0.2,1</string>
+		</dict>
+	</lib>
+</glyph>

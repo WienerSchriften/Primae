@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Hbar" format="2">
+	<unicode hex="0126"/>
+	<advance width="1320"/>
+	<outline>
+		<component base="H" identifier="69ED5C07"/>
+		<component base="barlongcomb.case" xOffset="14" yOffset="8"/>
+	</outline>
+	<anchor name="_center" x="315" y="1212"/>
+	<anchor name="bottom" x="603" y="0"/>
+	<anchor name="center" x="682" y="1220"/>
+	<anchor name="top" x="706" y="1600"/>
+	<anchor name="topleft" x="197" y="1600"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2025-06-26 12:40:16 +0000</string>
+			<key>public.markColor</key>
+			<string>0,0.2,0.88,1</string>
+			<key>public.objectLibs</key>
+			<dict>
+				<key>69ED5C07</key>
+				<dict>
+					<key>com.schriftgestaltung.alignment</key>
+					<integer>-1</integer>
+				</dict>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

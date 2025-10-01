@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Q.swsh" format="2">
+	<advance width="1422"/>
+	<outline>
+		<component base="O"/>
+		<component base="_part.Q-swash" xOffset="550" identifier="897BFAB6"/>
+	</outline>
+	<anchor name="Qtail" x="600" y="0"/>
+	<anchor name="bottom" x="521" y="0"/>
+	<anchor name="center" x="726" y="717"/>
+	<anchor name="ogonek" x="569" y="10"/>
+	<anchor name="top" x="911" y="1600"/>
+	<anchor name="topleft" x="331" y="1434"/>
+	<anchor name="topright" x="1532" y="1434"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2025-10-01 09:35:41 +0000</string>
+			<key>public.markColor</key>
+			<string>0,0.2,0.88,1</string>
+			<key>public.objectLibs</key>
+			<dict>
+				<key>897BFAB6</key>
+				<dict>
+					<key>com.schriftgestaltung.anchor</key>
+					<string>Qtail</string>
+				</dict>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

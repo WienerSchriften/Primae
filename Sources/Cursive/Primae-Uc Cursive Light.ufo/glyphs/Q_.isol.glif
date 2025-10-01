@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Q.isol" format="2">
+	<advance width="1374"/>
+	<outline>
+		<component base="O"/>
+		<component base="_part.Q-tail" xOffset="555"/>
+	</outline>
+	<anchor name="Qtail" x="605" y="0"/>
+	<anchor name="bottom" x="528" y="0"/>
+	<anchor name="center" x="705" y="720"/>
+	<anchor name="ogonek" x="575" y="9"/>
+	<anchor name="top" x="858" y="1400"/>
+	<anchor name="topleft" x="300" y="1265"/>
+	<anchor name="topright" x="1465" y="1265"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2025-05-12 08:10:31 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>O</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>O</string>
+			<key>public.markColor</key>
+			<string>0.67,0.95,0.38,1</string>
+		</dict>
+	</lib>
+</glyph>

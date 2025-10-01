@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="C" format="2">
+	<unicode hex="0043"/>
+	<advance width="1213"/>
+	<outline>
+		<contour>
+			<point x="642" y="-12" type="curve" smooth="yes"/>
+			<point x="787" y="-12"/>
+			<point x="941" y="40"/>
+			<point x="1032" y="120" type="curve" smooth="yes"/>
+			<point x="1121" y="198"/>
+			<point x="1142" y="236"/>
+			<point x="1142" y="278" type="curve" smooth="yes"/>
+			<point x="1142" y="339"/>
+			<point x="1068" y="397"/>
+			<point x="1029" y="397" type="curve" smooth="yes"/>
+			<point x="1007" y="397"/>
+			<point x="993" y="391"/>
+			<point x="960" y="364" type="curve" smooth="yes"/>
+			<point x="867" y="286"/>
+			<point x="767" y="238"/>
+			<point x="652" y="238" type="curve" smooth="yes"/>
+			<point x="463" y="238"/>
+			<point x="350" y="358"/>
+			<point x="350" y="703" type="curve" smooth="yes"/>
+			<point x="350" y="1117"/>
+			<point x="555" y="1375"/>
+			<point x="780" y="1375" type="curve" smooth="yes"/>
+			<point x="858" y="1375"/>
+			<point x="929" y="1353"/>
+			<point x="987" y="1319" type="curve" smooth="yes"/>
+			<point x="1021" y="1299"/>
+			<point x="1042" y="1287"/>
+			<point x="1067" y="1287" type="curve" smooth="yes"/>
+			<point x="1115" y="1287"/>
+			<point x="1173" y="1361"/>
+			<point x="1173" y="1422" type="curve" smooth="yes"/>
+			<point x="1173" y="1453"/>
+			<point x="1150" y="1495"/>
+			<point x="1071" y="1544" type="curve" smooth="yes"/>
+			<point x="982" y="1599"/>
+			<point x="879" y="1625"/>
+			<point x="775" y="1625" type="curve" smooth="yes"/>
+			<point x="403" y="1625"/>
+			<point x="90" y="1254"/>
+			<point x="90" y="678" type="curve" smooth="yes"/>
+			<point x="90" y="230"/>
+			<point x="309" y="-12"/>
+		</contour>
+	</outline>
+	<anchor name="bottom" x="633" y="0"/>
+	<anchor name="top" x="767" y="1600"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2025-10-01 08:05:07 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>O</string>
+			<key>public.markColor</key>
+			<string>0.67,0.95,0.38,1</string>
+		</dict>
+	</lib>
+</glyph>

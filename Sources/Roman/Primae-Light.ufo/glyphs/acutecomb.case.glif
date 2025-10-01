@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acutecomb.case" format="2">
+	<outline>
+		<contour>
+			<point x="75" y="1039" type="curve" smooth="yes"/>
+			<point x="104" y="1039"/>
+			<point x="187" y="1070"/>
+			<point x="289" y="1139" type="curve" smooth="yes"/>
+			<point x="393" y="1209"/>
+			<point x="419" y="1240"/>
+			<point x="419" y="1269" type="curve" smooth="yes"/>
+			<point x="419" y="1294"/>
+			<point x="398" y="1307"/>
+			<point x="382" y="1307" type="curve" smooth="yes"/>
+			<point x="369" y="1307"/>
+			<point x="356" y="1297"/>
+			<point x="335" y="1278" type="curve" smooth="yes"/>
+			<point x="273" y="1221"/>
+			<point x="152" y="1137"/>
+			<point x="79" y="1094" type="curve" smooth="yes"/>
+			<point x="54" y="1079"/>
+			<point x="50" y="1072"/>
+			<point x="50" y="1060" type="curve" smooth="yes"/>
+			<point x="50" y="1049"/>
+			<point x="59" y="1039"/>
+		</contour>
+	</outline>
+	<anchor name="_top" x="117" y="910"/>
+	<anchor name="top" x="241" y="1307"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2025-04-24 07:03:58 +0000</string>
+			<key>public.markColor</key>
+			<string>0.67,0.95,0.38,1</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Edieresis" format="2">
+	<unicode hex="00CB"/>
+	<advance width="1084"/>
+	<outline>
+		<component base="E"/>
+		<component base="dieresiscomb.case" xOffset="206" yOffset="615"/>
+	</outline>
+	<anchor name="bottom" x="517" y="0"/>
+	<anchor name="ogonek" x="882" y="0"/>
+	<anchor name="top" x="622" y="2056"/>
+	<anchor name="topleft" x="303" y="1600"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2025-04-24 07:03:58 +0000</string>
+			<key>public.markColor</key>
+			<string>0,0.2,0.88,1</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Q" format="2">
+	<unicode hex="0051"/>
+	<advance width="1209"/>
+	<outline>
+		<component base="O" identifier="F10BC89F"/>
+		<component base="_part.Qtail" xOffset="554" identifier="8EFE97AE"/>
+	</outline>
+	<anchor name="Qtail" x="605" y="0"/>
+	<anchor name="bottom" x="528" y="0"/>
+	<anchor name="center" x="705" y="720"/>
+	<anchor name="ogonek" x="575" y="9"/>
+	<anchor name="top" x="858" y="1400"/>
+	<anchor name="topleft" x="300" y="1265"/>
+	<anchor name="topright" x="1465" y="1265"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2025-10-01 09:35:41 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>O</string>
+			<key>public.markColor</key>
+			<string>0.67,0.95,0.38,1</string>
+			<key>public.objectLibs</key>
+			<dict>
+				<key>8EFE97AE</key>
+				<dict>
+					<key>com.schriftgestaltung.alignment</key>
+					<integer>-1</integer>
+				</dict>
+				<key>F10BC89F</key>
+				<dict>
+					<key>com.schriftgestaltung.alignment</key>
+					<integer>-1</integer>
+				</dict>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

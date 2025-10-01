@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="seven.salt" format="2">
+	<advance width="1163"/>
+	<outline>
+		<contour>
+			<point x="446" y="126" type="curve" smooth="yes"/>
+			<point x="524" y="311"/>
+			<point x="626" y="518"/>
+			<point x="747" y="706" type="curve" smooth="yes"/>
+			<point x="843" y="855"/>
+			<point x="989" y="1041"/>
+			<point x="1113" y="1168" type="curve" smooth="yes"/>
+			<point x="1174" y="1231"/>
+			<point x="1193" y="1253"/>
+			<point x="1193" y="1289" type="curve" smooth="yes"/>
+			<point x="1193" y="1338"/>
+			<point x="1149" y="1403"/>
+			<point x="1084" y="1403" type="curve" smooth="yes"/>
+			<point x="1054" y="1403"/>
+			<point x="1025" y="1400"/>
+			<point x="977" y="1398" type="curve" smooth="yes"/>
+			<point x="915" y="1395"/>
+			<point x="798" y="1393"/>
+			<point x="676" y="1393" type="curve" smooth="yes"/>
+			<point x="575" y="1393"/>
+			<point x="491" y="1397"/>
+			<point x="428" y="1397" type="curve" smooth="yes"/>
+			<point x="381" y="1397"/>
+			<point x="324" y="1400"/>
+			<point x="273" y="1400" type="curve" smooth="yes"/>
+			<point x="215" y="1400"/>
+			<point x="180" y="1358"/>
+			<point x="180" y="1302" type="curve" smooth="yes"/>
+			<point x="180" y="1220"/>
+			<point x="214" y="1176"/>
+			<point x="269" y="1163" type="curve" smooth="yes"/>
+			<point x="321" y="1151"/>
+			<point x="381" y="1148"/>
+			<point x="487" y="1148" type="curve" smooth="yes"/>
+			<point x="690" y="1148"/>
+			<point x="878" y="1160"/>
+			<point x="1032" y="1188" type="curve"/>
+			<point x="1013" y="1263" type="line"/>
+			<point x="875" y="1155"/>
+			<point x="702" y="960"/>
+			<point x="546" y="746" type="curve" smooth="yes"/>
+			<point x="417" y="570"/>
+			<point x="297" y="365"/>
+			<point x="225" y="219" type="curve" smooth="yes"/>
+			<point x="197" y="162"/>
+			<point x="183" y="125"/>
+			<point x="183" y="92" type="curve" smooth="yes"/>
+			<point x="183" y="15"/>
+			<point x="265" y="-11"/>
+			<point x="326" y="-11" type="curve" smooth="yes"/>
+			<point x="377" y="-11"/>
+			<point x="403" y="25"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2025-06-12 08:35:25 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>seven</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>seven</string>
+			<key>public.markColor</key>
+			<string>0.67,0.95,0.38,1</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="threeeighths" format="2">
+	<unicode hex="215C"/>
+	<advance width="2019"/>
+	<outline>
+		<component base="threesuperior" yOffset="-347" identifier="412DA301"/>
+		<component base="fraction" xOffset="780" identifier="ACA6E4B0"/>
+		<component base="eightsuperior" xOffset="1193" yOffset="-1000" identifier="B112C56A"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2025-06-26 12:40:16 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>three.numr</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>eight.numr</string>
+			<key>public.markColor</key>
+			<string>0.06,0.6,0.98,1</string>
+			<key>public.objectLibs</key>
+			<dict>
+				<key>412DA301</key>
+				<dict>
+					<key>com.schriftgestaltung.alignment</key>
+					<integer>-1</integer>
+				</dict>
+				<key>ACA6E4B0</key>
+				<dict>
+					<key>com.schriftgestaltung.alignment</key>
+					<integer>-1</integer>
+				</dict>
+				<key>B112C56A</key>
+				<dict>
+					<key>com.schriftgestaltung.alignment</key>
+					<integer>-1</integer>
+				</dict>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

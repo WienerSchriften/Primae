@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ydieresis.fina" format="2">
+	<advance width="1092"/>
+	<outline>
+		<component base="y.fina"/>
+		<component base="dieresiscomb" xOffset="290"/>
+	</outline>
+	<anchor name="top" x="665" y="1422"/>
+	<anchor name="topright" x="991" y="1005"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2025-03-12 14:01:37 +0000</string>
+			<key>public.markColor</key>
+			<string>0.5,0.09,0.79,1</string>
+		</dict>
+	</lib>
+</glyph>

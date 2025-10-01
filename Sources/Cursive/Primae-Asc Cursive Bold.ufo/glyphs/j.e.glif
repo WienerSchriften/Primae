@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="j.e" format="2">
+	<advance width="235"/>
+	<outline>
+		<component base="jdotless.e"/>
+		<component base="dotaccentcomb" xOffset="207"/>
+	</outline>
+	<anchor name="bottom" x="-124" y="-470"/>
+	<anchor name="top" x="415" y="1436"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2025-04-09 07:32:00 +0000</string>
+			<key>public.markColor</key>
+			<string>0,0.2,0.88,1</string>
+		</dict>
+	</lib>
+</glyph>

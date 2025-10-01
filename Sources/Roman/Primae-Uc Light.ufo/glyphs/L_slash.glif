@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lslash" format="2">
+	<unicode hex="0141"/>
+	<advance width="980"/>
+	<outline>
+		<component base="L"/>
+		<component base="slashcomb.case" xOffset="-82" yOffset="-89"/>
+	</outline>
+	<anchor name="bottom" x="510" y="-11"/>
+	<anchor name="center" x="241" y="734"/>
+	<anchor name="top" x="281" y="1400"/>
+	<anchor name="topright" x="417" y="1400"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2025-04-24 07:03:58 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>L</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>L</string>
+			<key>public.markColor</key>
+			<string>0,0.2,0.88,1</string>
+		</dict>
+	</lib>
+</glyph>

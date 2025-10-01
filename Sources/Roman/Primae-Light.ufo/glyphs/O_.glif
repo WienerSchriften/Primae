@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="O" format="2">
+	<unicode hex="004F"/>
+	<advance width="1352"/>
+	<outline>
+		<contour>
+			<point x="606" y="-12" type="curve" smooth="yes"/>
+			<point x="943" y="-12"/>
+			<point x="1232" y="348"/>
+			<point x="1232" y="898" type="curve" smooth="yes"/>
+			<point x="1232" y="1388"/>
+			<point x="1008" y="1615"/>
+			<point x="743" y="1615" type="curve" smooth="yes"/>
+			<point x="409" y="1615"/>
+			<point x="120" y="1258"/>
+			<point x="120" y="708" type="curve" smooth="yes"/>
+			<point x="120" y="218"/>
+			<point x="341" y="-12"/>
+		</contour>
+		<contour>
+			<point x="612" y="68" type="curve" smooth="yes"/>
+			<point x="392" y="68"/>
+			<point x="205" y="249"/>
+			<point x="205" y="713" type="curve" smooth="yes"/>
+			<point x="205" y="1203"/>
+			<point x="452" y="1535"/>
+			<point x="740" y="1535" type="curve" smooth="yes"/>
+			<point x="960" y="1535"/>
+			<point x="1147" y="1356"/>
+			<point x="1147" y="892" type="curve" smooth="yes"/>
+			<point x="1147" y="402"/>
+			<point x="900" y="68"/>
+		</contour>
+	</outline>
+	<anchor name="Qtail" x="780" y="0"/>
+	<anchor name="bottom" x="606" y="0"/>
+	<anchor name="center" x="671" y="784"/>
+	<anchor name="ogonek" x="666" y="0"/>
+	<anchor name="top" x="751" y="1600"/>
+	<anchor name="topleft" x="237" y="1434"/>
+	<anchor name="topright" x="1438" y="1434"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2025-05-12 08:09:03 +0000</string>
+			<key>public.markColor</key>
+			<string>0.67,0.95,0.38,1</string>
+		</dict>
+	</lib>
+</glyph>

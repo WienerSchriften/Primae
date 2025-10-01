@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="twosuperior" format="2">
+	<unicode hex="00B2"/>
+	<advance width="799"/>
+	<outline>
+		<contour>
+			<point x="128" y="999" type="curve" smooth="yes"/>
+			<point x="589" y="999" type="line" smooth="yes"/>
+			<point x="649" y="999"/>
+			<point x="695" y="1064"/>
+			<point x="695" y="1143" type="curve" smooth="yes"/>
+			<point x="695" y="1173"/>
+			<point x="682" y="1192"/>
+			<point x="649" y="1192" type="curve" smooth="yes"/>
+			<point x="103" y="1192" type="line"/>
+			<point x="101" y="1140" type="line"/>
+			<point x="588" y="1294"/>
+			<point x="779" y="1455"/>
+			<point x="779" y="1654" type="curve" smooth="yes"/>
+			<point x="779" y="1772"/>
+			<point x="689" y="1837"/>
+			<point x="546" y="1837" type="curve" smooth="yes"/>
+			<point x="437" y="1837"/>
+			<point x="309" y="1802"/>
+			<point x="216" y="1744" type="curve" smooth="yes"/>
+			<point x="176" y="1719"/>
+			<point x="154" y="1689"/>
+			<point x="154" y="1655" type="curve" smooth="yes"/>
+			<point x="154" y="1618"/>
+			<point x="179" y="1581"/>
+			<point x="223" y="1581" type="curve" smooth="yes"/>
+			<point x="241" y="1581"/>
+			<point x="256" y="1587"/>
+			<point x="283" y="1599" type="curve" smooth="yes"/>
+			<point x="368" y="1636"/>
+			<point x="429" y="1654"/>
+			<point x="481" y="1654" type="curve" smooth="yes"/>
+			<point x="535" y="1654"/>
+			<point x="562" y="1633"/>
+			<point x="562" y="1593" type="curve" smooth="yes"/>
+			<point x="562" y="1469"/>
+			<point x="400" y="1396"/>
+			<point x="179" y="1291" type="curve" smooth="yes"/>
+			<point x="116" y="1261"/>
+			<point x="10" y="1216"/>
+			<point x="10" y="1103" type="curve" smooth="yes"/>
+			<point x="10" y="1042"/>
+			<point x="51" y="999"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>RMXScaler</key>
+			<dict>
+				<key>height</key>
+				<integer>67</integer>
+				<key>verticalShift</key>
+				<integer>532</integer>
+				<key>width</key>
+				<integer>85</integer>
+			</dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2025-03-12 14:01:37 +0000</string>
+			<key>public.markColor</key>
+			<string>0.67,0.95,0.38,1</string>
+		</dict>
+	</lib>
+</glyph>

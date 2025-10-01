@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="joint.nx.salt" format="2">
+	<advance width="1200"/>
+	<outline>
+		<contour>
+			<point x="-79" y="-12" type="curve" smooth="yes"/>
+			<point x="340" y="-12"/>
+			<point x="896" y="438"/>
+			<point x="1323" y="850" type="curve" smooth="yes"/>
+			<point x="1350" y="877"/>
+			<point x="1354" y="887"/>
+			<point x="1354" y="898" type="curve" smooth="yes"/>
+			<point x="1354" y="919"/>
+			<point x="1338" y="935"/>
+			<point x="1317" y="935" type="curve" smooth="yes"/>
+			<point x="1305" y="935"/>
+			<point x="1296" y="927"/>
+			<point x="1271" y="902" type="curve" smooth="yes"/>
+			<point x="887" y="517"/>
+			<point x="309" y="63"/>
+			<point x="-58" y="63" type="curve" smooth="yes"/>
+			<point x="-95" y="63"/>
+			<point x="-120" y="50"/>
+			<point x="-120" y="25" type="curve" smooth="yes"/>
+			<point x="-120" y="4"/>
+			<point x="-105" y="-12"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2025-03-12 14:01:37 +0000</string>
+			<key>public.markColor</key>
+			<string>0.65,0.48,0.2,1</string>
+		</dict>
+	</lib>
+</glyph>

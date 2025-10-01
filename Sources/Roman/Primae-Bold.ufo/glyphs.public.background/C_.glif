@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="C" format="2">
+	<advance width="1213"/>
+	<outline>
+		<contour>
+			<point x="1048" y="131" type="move"/>
+		</contour>
+	</outline>
+</glyph>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="joint.oschwa" format="2">
+	<outline>
+		<contour>
+			<point x="-566" y="874" type="curve" smooth="yes"/>
+			<point x="-566" y="839"/>
+			<point x="-555" y="822"/>
+			<point x="-540" y="822" type="curve" smooth="yes"/>
+			<point x="-534" y="822"/>
+			<point x="-523" y="822"/>
+			<point x="-499" y="823" type="curve" smooth="yes"/>
+			<point x="-348" y="830"/>
+			<point x="98" y="840"/>
+			<point x="499" y="840" type="curve" smooth="yes"/>
+			<point x="566" y="840"/>
+			<point x="611" y="888"/>
+			<point x="611" y="952" type="curve" smooth="yes"/>
+			<point x="611" y="993"/>
+			<point x="597" y="1020"/>
+			<point x="561" y="1020" type="curve" smooth="yes"/>
+			<point x="351" y="1020"/>
+			<point x="-136" y="987"/>
+			<point x="-321" y="965" type="curve" smooth="yes"/>
+			<point x="-486" y="945"/>
+			<point x="-566" y="926"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2025-03-12 14:01:37 +0000</string>
+			<key>public.markColor</key>
+			<string>0.65,0.48,0.2,1</string>
+		</dict>
+	</lib>
+</glyph>

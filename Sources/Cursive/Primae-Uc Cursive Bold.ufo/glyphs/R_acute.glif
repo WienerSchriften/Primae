@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Racute" format="2">
+	<unicode hex="0154"/>
+	<advance width="1023"/>
+	<outline>
+		<component base="R"/>
+		<component base="acutecomb.case" xOffset="474" yOffset="490"/>
+	</outline>
+	<anchor name="bottom" x="449" y="0"/>
+	<anchor name="top" x="841" y="1943"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2025-03-12 14:01:37 +0000</string>
+			<key>public.markColor</key>
+			<string>0,0.2,0.88,1</string>
+		</dict>
+	</lib>
+</glyph>

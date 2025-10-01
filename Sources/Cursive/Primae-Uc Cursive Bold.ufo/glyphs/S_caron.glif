@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Scaron" format="2">
+	<unicode hex="0160"/>
+	<advance width="1135"/>
+	<outline>
+		<component base="S"/>
+		<component base="caroncomb.case" xOffset="419" yOffset="490"/>
+	</outline>
+	<anchor name="bottom" x="454" y="0"/>
+	<anchor name="top" x="846" y="1913"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2025-03-12 14:01:37 +0000</string>
+			<key>public.markColor</key>
+			<string>0,0.2,0.88,1</string>
+		</dict>
+	</lib>
+</glyph>

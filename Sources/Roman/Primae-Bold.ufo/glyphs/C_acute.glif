@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Cacute" format="2">
+	<unicode hex="0106"/>
+	<advance width="1213"/>
+	<outline>
+		<component base="C"/>
+		<component base="acutecomb.case" xOffset="539" yOffset="690"/>
+	</outline>
+	<anchor name="bottom" x="633" y="0"/>
+	<anchor name="top" x="814" y="2143"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2025-04-24 07:13:34 +0000</string>
+			<key>public.markColor</key>
+			<string>0,0.2,0.88,1</string>
+		</dict>
+	</lib>
+</glyph>

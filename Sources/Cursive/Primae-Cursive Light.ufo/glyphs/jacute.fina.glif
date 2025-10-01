@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="jacute.fina" format="2">
+	<advance width="558"/>
+	<outline>
+		<component base="jdotless.fina"/>
+		<component base="acutecomb" xOffset="252"/>
+	</outline>
+	<anchor name="bottom" x="-257" y="-690"/>
+	<anchor name="top" x="461" y="1440"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2025-03-12 14:01:37 +0000</string>
+			<key>public.markColor</key>
+			<string>0.5,0.09,0.79,1</string>
+		</dict>
+	</lib>
+</glyph>

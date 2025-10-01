@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Utilde" format="2">
+	<unicode hex="0168"/>
+	<advance width="1331"/>
+	<outline>
+		<component base="U"/>
+		<component base="tildecomb.case" xOffset="387" yOffset="680"/>
+	</outline>
+	<anchor name="bottom" x="499" y="0"/>
+	<anchor name="ogonek" x="1028" y="0"/>
+	<anchor name="top" x="750" y="1986"/>
+	<anchor name="topright" x="1188" y="1600"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2025-04-24 07:03:58 +0000</string>
+			<key>public.markColor</key>
+			<string>0,0.2,0.88,1</string>
+		</dict>
+	</lib>
+</glyph>

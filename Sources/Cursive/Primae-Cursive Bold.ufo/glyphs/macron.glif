@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macron" format="2">
+	<unicode hex="00AF"/>
+	<advance width="596"/>
+	<outline>
+		<component base="macroncomb"/>
+	</outline>
+	<anchor name="_center" x="317" y="1271"/>
+	<anchor name="top" x="339" y="1353"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2025-03-12 14:01:37 +0000</string>
+			<key>public.markColor</key>
+			<string>0,0.2,0.88,1</string>
+		</dict>
+	</lib>
+</glyph>

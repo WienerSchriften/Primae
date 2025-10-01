@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tcommaaccent" format="2">
+	<unicode hex="021A"/>
+	<advance width="1068"/>
+	<outline>
+		<component base="T"/>
+		<component base="commaaccentcomb.case" xOffset="70"/>
+	</outline>
+	<anchor name="bottom" x="259" y="-537"/>
+	<anchor name="center" x="540" y="860"/>
+	<anchor name="top" x="768" y="1600"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2025-03-12 14:01:37 +0000</string>
+			<key>public.markColor</key>
+			<string>0,0.2,0.88,1</string>
+		</dict>
+	</lib>
+</glyph>

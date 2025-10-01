@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="X" format="2">
+	<unicode hex="0058"/>
+	<advance width="1215"/>
+	<outline>
+		<contour>
+			<point x="131" y="-12" type="curve" smooth="yes"/>
+			<point x="152" y="-12"/>
+			<point x="175" y="-5"/>
+			<point x="214" y="52" type="curve" smooth="yes"/>
+			<point x="601" y="620" type="line"/>
+			<point x="746" y="783" type="line"/>
+			<point x="1185" y="1390" type="line" smooth="yes"/>
+			<point x="1213" y="1428"/>
+			<point x="1225" y="1451"/>
+			<point x="1225" y="1472" type="curve" smooth="yes"/>
+			<point x="1225" y="1531"/>
+			<point x="1150" y="1600"/>
+			<point x="1074" y="1600" type="curve" smooth="yes"/>
+			<point x="1040" y="1600"/>
+			<point x="1017" y="1585"/>
+			<point x="988" y="1542" type="curve" smooth="yes"/>
+			<point x="628" y="1004" type="line"/>
+			<point x="481" y="841" type="line"/>
+			<point x="27" y="207" type="line" smooth="yes"/>
+			<point x="-11" y="153"/>
+			<point x="-20" y="139"/>
+			<point x="-20" y="118" type="curve" smooth="yes"/>
+			<point x="-20" y="59"/>
+			<point x="51" y="-12"/>
+		</contour>
+		<contour>
+			<point x="973" y="-12" type="curve" smooth="yes"/>
+			<point x="1053" y="-12"/>
+			<point x="1131" y="64"/>
+			<point x="1129" y="105" type="curve" smooth="yes"/>
+			<point x="1130" y="124"/>
+			<point x="1127" y="144"/>
+			<point x="1105" y="185" type="curve" smooth="yes"/>
+			<point x="379" y="1512" type="line" smooth="yes"/>
+			<point x="337" y="1588"/>
+			<point x="325" y="1600"/>
+			<point x="282" y="1600" type="curve" smooth="yes"/>
+			<point x="201" y="1600"/>
+			<point x="119" y="1531"/>
+			<point x="119" y="1476" type="curve" smooth="yes"/>
+			<point x="119" y="1448"/>
+			<point x="128" y="1426"/>
+			<point x="162" y="1364" type="curve" smooth="yes"/>
+			<point x="848" y="124" type="line" smooth="yes"/>
+			<point x="905" y="22"/>
+			<point x="933" y="-12"/>
+		</contour>
+	</outline>
+	<anchor name="bottom" x="520" y="0"/>
+	<anchor name="top" x="641" y="1598"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2025-04-25 08:15:37 +0000</string>
+			<key>public.markColor</key>
+			<string>0.67,0.95,0.38,1</string>
+		</dict>
+	</lib>
+</glyph>

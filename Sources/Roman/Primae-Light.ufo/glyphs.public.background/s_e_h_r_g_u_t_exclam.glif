@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="s_e_h_r_g_u_t_exclam" format="2">
+	<advance width="5005"/>
+	<outline>
+		<contour>
+			<point x="4559" y="-225" type="curve" smooth="yes"/>
+			<point x="4559" y="-280"/>
+			<point x="4599" y="-315"/>
+			<point x="4650" y="-315" type="curve" smooth="yes"/>
+			<point x="4708" y="-315"/>
+			<point x="4758" y="-266"/>
+			<point x="4758" y="-212" type="curve" smooth="yes"/>
+			<point x="4758" y="-164"/>
+			<point x="4719" y="-126"/>
+			<point x="4661" y="-126" type="curve" smooth="yes"/>
+			<point x="4604" y="-126"/>
+			<point x="4559" y="-171"/>
+		</contour>
+	</outline>
+</glyph>

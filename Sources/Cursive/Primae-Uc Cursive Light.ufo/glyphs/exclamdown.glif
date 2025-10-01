@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="exclamdown" format="2">
+	<unicode hex="00A1"/>
+	<advance width="801"/>
+	<outline>
+		<component base="exclam" xScale="-1" yScale="-1" xOffset="801" yOffset="923"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2025-06-12 08:47:05 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>=|exclam</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>=|exclam</string>
+			<key>public.markColor</key>
+			<string>0.67,0.95,0.38,1</string>
+		</dict>
+	</lib>
+</glyph>

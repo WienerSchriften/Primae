@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="one.tosf" format="2">
+	<advance width="1200"/>
+	<outline>
+		<contour>
+			<point x="303" y="812" type="move"/>
+			<point x="266" y="794"/>
+			<point x="264" y="792"/>
+			<point x="264" y="775" type="curve" smooth="yes"/>
+			<point x="264" y="760"/>
+			<point x="279" y="736"/>
+			<point x="298" y="736" type="curve" smooth="yes"/>
+			<point x="309" y="736"/>
+			<point x="320" y="738"/>
+			<point x="360" y="757" type="curve" smooth="yes"/>
+		</contour>
+	</outline>
+</glyph>

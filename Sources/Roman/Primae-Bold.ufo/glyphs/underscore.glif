@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="underscore" format="2">
+	<unicode hex="005F"/>
+	<advance width="1580"/>
+	<outline>
+		<contour>
+			<point x="170" y="-290" type="curve" smooth="yes"/>
+			<point x="1405" y="-290" type="line" smooth="yes"/>
+			<point x="1448" y="-290"/>
+			<point x="1480" y="-259"/>
+			<point x="1480" y="-185" type="curve" smooth="yes"/>
+			<point x="1480" y="-115"/>
+			<point x="1456" y="-80"/>
+			<point x="1410" y="-80" type="curve" smooth="yes"/>
+			<point x="175" y="-80" type="line" smooth="yes"/>
+			<point x="132" y="-80"/>
+			<point x="100" y="-114"/>
+			<point x="100" y="-201" type="curve" smooth="yes"/>
+			<point x="100" y="-260"/>
+			<point x="125" y="-290"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2025-04-24 07:03:58 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>endash</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>endash</string>
+			<key>public.markColor</key>
+			<string>0,0.2,0.88,1</string>
+		</dict>
+	</lib>
+</glyph>

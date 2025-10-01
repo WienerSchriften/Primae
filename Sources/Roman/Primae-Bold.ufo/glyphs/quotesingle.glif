@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotesingle" format="2">
+	<unicode hex="0027"/>
+	<advance width="409"/>
+	<outline>
+		<contour>
+			<point x="212" y="1092" type="curve" smooth="yes"/>
+			<point x="273" y="1092"/>
+			<point x="302" y="1108"/>
+			<point x="312" y="1180" type="curve" smooth="yes"/>
+			<point x="353" y="1469" type="line" smooth="yes"/>
+			<point x="357" y="1499"/>
+			<point x="359" y="1517"/>
+			<point x="359" y="1530" type="curve" smooth="yes"/>
+			<point x="359" y="1596"/>
+			<point x="323" y="1620"/>
+			<point x="244" y="1620" type="curve" smooth="yes"/>
+			<point x="172" y="1620"/>
+			<point x="131" y="1593"/>
+			<point x="129" y="1509" type="curve" smooth="yes"/>
+			<point x="121" y="1214" type="line" smooth="yes"/>
+			<point x="120" y="1189"/>
+			<point x="120" y="1176"/>
+			<point x="120" y="1169" type="curve" smooth="yes"/>
+			<point x="120" y="1117"/>
+			<point x="149" y="1092"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2025-04-24 07:03:58 +0000</string>
+			<key>public.markColor</key>
+			<string>0.67,0.95,0.38,1</string>
+		</dict>
+	</lib>
+</glyph>

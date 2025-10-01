@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ograve" format="2">
+	<unicode hex="00D2"/>
+	<advance width="1374"/>
+	<outline>
+		<component base="O"/>
+		<component base="gravecomb.case" xOffset="560" yOffset="430"/>
+	</outline>
+	<anchor name="Qtail" x="605" y="0"/>
+	<anchor name="bottom" x="528" y="0"/>
+	<anchor name="center" x="705" y="720"/>
+	<anchor name="ogonek" x="575" y="9"/>
+	<anchor name="top" x="724" y="1863"/>
+	<anchor name="topleft" x="300" y="1265"/>
+	<anchor name="topright" x="1465" y="1265"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2025-03-12 14:01:37 +0000</string>
+			<key>public.markColor</key>
+			<string>0,0.2,0.88,1</string>
+		</dict>
+	</lib>
+</glyph>

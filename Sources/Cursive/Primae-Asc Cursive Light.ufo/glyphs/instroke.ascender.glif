@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="instroke.ascender" format="2">
+	<advance width="113"/>
+	<outline>
+		<contour>
+			<point x="144" y="443" type="curve" smooth="yes"/>
+			<point x="251" y="557"/>
+			<point x="323" y="644"/>
+			<point x="405" y="767" type="curve" smooth="yes"/>
+			<point x="421" y="790"/>
+			<point x="425" y="803"/>
+			<point x="425" y="814" type="curve" smooth="yes"/>
+			<point x="425" y="829"/>
+			<point x="413" y="837"/>
+			<point x="399" y="837" type="curve" smooth="yes"/>
+			<point x="389" y="837"/>
+			<point x="382" y="835"/>
+			<point x="369" y="815" type="curve" smooth="yes"/>
+			<point x="296" y="704"/>
+			<point x="197" y="592"/>
+			<point x="82" y="477" type="curve" smooth="yes"/>
+			<point x="64" y="459"/>
+			<point x="59" y="448"/>
+			<point x="59" y="436" type="curve" smooth="yes"/>
+			<point x="59" y="421"/>
+			<point x="75" y="407"/>
+			<point x="92" y="407" type="curve" smooth="yes"/>
+			<point x="106" y="407"/>
+			<point x="120" y="417"/>
+		</contour>
+	</outline>
+	<guideline x="534" y="541" angle="224.0954"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2025-04-22 14:05:29 +0000</string>
+			<key>public.markColor</key>
+			<string>0.65,0.48,0.2,1</string>
+		</dict>
+	</lib>
+</glyph>

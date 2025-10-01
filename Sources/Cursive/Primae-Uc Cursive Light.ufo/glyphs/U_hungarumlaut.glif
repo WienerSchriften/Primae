@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Uhungarumlaut" format="2">
+	<unicode hex="0170"/>
+	<advance width="1104"/>
+	<outline>
+		<component base="U"/>
+		<component base="hungarumlautcomb.case" xOffset="637" yOffset="430"/>
+	</outline>
+	<anchor name="bottom" x="528" y="0"/>
+	<anchor name="ogonek" x="1021" y="-12"/>
+	<anchor name="top" x="1047" y="1801"/>
+	<anchor name="topright" x="1599" y="1234"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2025-03-12 14:01:37 +0000</string>
+			<key>public.markColor</key>
+			<string>0,0.2,0.88,1</string>
+		</dict>
+	</lib>
+</glyph>

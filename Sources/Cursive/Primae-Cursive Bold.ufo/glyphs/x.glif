@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="x" format="2">
+	<unicode hex="0078"/>
+	<advance width="1104"/>
+	<outline>
+		<contour>
+			<point x="208" y="34" type="curve" smooth="yes"/>
+			<point x="485" y="367" type="line"/>
+			<point x="397" y="538" type="line"/>
+			<point x="60" y="180" type="line" smooth="yes"/>
+			<point x="22" y="140"/>
+			<point x="6" y="113"/>
+			<point x="6" y="84" type="curve" smooth="yes"/>
+			<point x="6" y="33"/>
+			<point x="60" y="-24"/>
+			<point x="124" y="-24" type="curve" smooth="yes"/>
+			<point x="151" y="-24"/>
+			<point x="169" y="-13"/>
+		</contour>
+		<contour>
+			<point x="806" y="971" type="curve" smooth="yes"/>
+			<point x="516" y="625" type="line"/>
+			<point x="604" y="458" type="line"/>
+			<point x="944" y="827" type="line" smooth="yes"/>
+			<point x="983" y="869"/>
+			<point x="994" y="886"/>
+			<point x="994" y="908" type="curve" smooth="yes"/>
+			<point x="994" y="964"/>
+			<point x="943" y="1018"/>
+			<point x="885" y="1018" type="curve" smooth="yes"/>
+			<point x="851" y="1018"/>
+			<point x="838" y="1009"/>
+		</contour>
+		<contour>
+			<point x="817" y="187" type="curve" smooth="yes"/>
+			<point x="678" y="380"/>
+			<point x="462" y="741"/>
+			<point x="366" y="941" type="curve" smooth="yes"/>
+			<point x="335" y="1007"/>
+			<point x="307" y="1020"/>
+			<point x="263" y="1020" type="curve" smooth="yes"/>
+			<point x="211" y="1020"/>
+			<point x="155" y="941"/>
+			<point x="155" y="891" type="curve" smooth="yes"/>
+			<point x="155" y="870"/>
+			<point x="159" y="853"/>
+			<point x="173" y="819" type="curve" smooth="yes"/>
+			<point x="234" y="666"/>
+			<point x="466" y="283"/>
+			<point x="616" y="78" type="curve" smooth="yes"/>
+			<point x="674" y="-1"/>
+			<point x="698" y="-24"/>
+			<point x="736" y="-24" type="curve" smooth="yes"/>
+			<point x="795" y="-24"/>
+			<point x="863" y="26"/>
+			<point x="863" y="89" type="curve" smooth="yes"/>
+			<point x="863" y="108"/>
+			<point x="853" y="137"/>
+		</contour>
+	</outline>
+	<guideline x="307" y="428" angle="225.1329"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2025-05-23 08:36:56 +0000</string>
+			<key>public.markColor</key>
+			<string>0.67,0.95,0.38,1</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lcommaaccent" format="2">
+	<unicode hex="013B"/>
+	<advance width="1040"/>
+	<outline>
+		<component base="L"/>
+		<component base="commaaccentcomb.case" xOffset="280" yOffset="-12"/>
+	</outline>
+	<anchor name="bottom" x="417" y="-549"/>
+	<anchor name="center" x="261" y="839"/>
+	<anchor name="top" x="302" y="1600"/>
+	<anchor name="topright" x="446" y="1600"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2025-04-24 07:03:58 +0000</string>
+			<key>public.markColor</key>
+			<string>0,0.2,0.88,1</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="joint.vs" format="2">
+	<advance width="120"/>
+	<outline>
+		<contour>
+			<point x="-228" y="876" type="curve" smooth="yes"/>
+			<point x="-228" y="785"/>
+			<point x="-133" y="695"/>
+			<point x="89" y="695" type="curve" smooth="yes"/>
+			<point x="280" y="695"/>
+			<point x="478" y="762"/>
+			<point x="616" y="876" type="curve" smooth="yes"/>
+			<point x="652" y="906"/>
+			<point x="663" y="924"/>
+			<point x="663" y="944" type="curve" smooth="yes"/>
+			<point x="663" y="981"/>
+			<point x="628" y="1010"/>
+			<point x="599" y="1010" type="curve" smooth="yes"/>
+			<point x="586" y="1010"/>
+			<point x="561" y="1001"/>
+			<point x="502" y="970" type="curve" smooth="yes"/>
+			<point x="368" y="900"/>
+			<point x="241" y="867"/>
+			<point x="104" y="867" type="curve" smooth="yes"/>
+			<point x="-7" y="867"/>
+			<point x="-49" y="897"/>
+			<point x="-49" y="946" type="curve" smooth="yes"/>
+			<point x="-49" y="970"/>
+			<point x="-35" y="984"/>
+			<point x="-25" y="990" type="curve" smooth="yes"/>
+			<point x="-20" y="993"/>
+			<point x="-18" y="996"/>
+			<point x="-18" y="999" type="curve" smooth="yes"/>
+			<point x="-18" y="1009"/>
+			<point x="-31" y="1020"/>
+			<point x="-66" y="1020" type="curve" smooth="yes"/>
+			<point x="-159" y="1020"/>
+			<point x="-228" y="959"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2025-03-12 14:01:37 +0000</string>
+			<key>public.markColor</key>
+			<string>0.65,0.48,0.2,1</string>
+		</dict>
+	</lib>
+</glyph>

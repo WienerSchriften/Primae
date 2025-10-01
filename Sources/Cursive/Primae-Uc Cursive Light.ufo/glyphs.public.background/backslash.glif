@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="backslash" format="2">
+	<advance width="876"/>
+	<outline>
+		<contour>
+			<point x="588" y="-112" type="curve" smooth="yes"/>
+			<point x="609" y="-112"/>
+			<point x="626" y="-95"/>
+			<point x="626" y="-74" type="curve" smooth="yes"/>
+			<point x="626" y="-67"/>
+			<point x="621" y="-37"/>
+			<point x="620" y="-31" type="curve" smooth="yes"/>
+			<point x="368" y="1372" type="line" smooth="yes"/>
+			<point x="362" y="1405"/>
+			<point x="353" y="1414"/>
+			<point x="332" y="1414" type="curve" smooth="yes"/>
+			<point x="307" y="1414"/>
+			<point x="294" y="1400"/>
+			<point x="294" y="1380" type="curve" smooth="yes"/>
+			<point x="294" y="1366"/>
+			<point x="297" y="1345"/>
+			<point x="304" y="1306" type="curve" smooth="yes"/>
+			<point x="554" y="-84" type="line" smooth="yes"/>
+			<point x="558" y="-106"/>
+			<point x="573" y="-112"/>
+		</contour>
+	</outline>
+</glyph>

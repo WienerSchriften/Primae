@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="_part.Q-tail" format="2">
+	<advance width="528"/>
+	<outline>
+		<contour>
+			<point x="386" y="-221" type="curve" smooth="yes"/>
+			<point x="409" y="-265"/>
+			<point x="422" y="-280"/>
+			<point x="437" y="-280" type="curve" smooth="yes"/>
+			<point x="456" y="-280"/>
+			<point x="478" y="-260"/>
+			<point x="478" y="-244" type="curve" smooth="yes"/>
+			<point x="478" y="-231"/>
+			<point x="471" y="-216"/>
+			<point x="454" y="-186" type="curve" smooth="yes"/>
+			<point x="366" y="-26"/>
+			<point x="241" y="234"/>
+			<point x="134" y="508" type="curve" smooth="yes"/>
+			<point x="111" y="566"/>
+			<point x="105" y="575"/>
+			<point x="88" y="575" type="curve" smooth="yes"/>
+			<point x="72" y="575"/>
+			<point x="50" y="564"/>
+			<point x="50" y="545" type="curve" smooth="yes"/>
+			<point x="50" y="536"/>
+			<point x="54" y="519"/>
+			<point x="68" y="482" type="curve" smooth="yes"/>
+			<point x="179" y="198"/>
+			<point x="305" y="-62"/>
+		</contour>
+	</outline>
+	<anchor name="_Qtail" x="50" y="0"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2025-05-12 08:09:59 +0000</string>
+			<key>public.markColor</key>
+			<string>0.04,0.57,0.04,1</string>
+		</dict>
+	</lib>
+</glyph>

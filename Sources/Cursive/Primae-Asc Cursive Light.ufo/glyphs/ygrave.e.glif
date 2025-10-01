@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ygrave.e" format="2">
+	<advance width="810"/>
+	<outline>
+		<component base="y.e"/>
+		<component base="gravecomb" xOffset="348"/>
+	</outline>
+	<anchor name="top" x="580" y="1440"/>
+	<anchor name="topright" x="880" y="910"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2025-03-12 14:01:37 +0000</string>
+			<key>public.markColor</key>
+			<string>0.5,0.09,0.79,1</string>
+		</dict>
+	</lib>
+</glyph>

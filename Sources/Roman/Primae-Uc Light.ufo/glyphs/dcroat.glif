@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dcroat" format="2">
+	<unicode hex="0111"/>
+	<advance width="1045"/>
+	<outline>
+		<component base="d"/>
+		<component base="macroncomb" xOffset="538" yOffset="-14" identifier="3A63EC79"/>
+	</outline>
+	<anchor name="bottom" x="426" y="0"/>
+	<anchor name="center" x="825" y="1208"/>
+	<anchor name="top" x="837" y="1252"/>
+	<anchor name="topright" x="1018" y="1600"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2025-06-26 12:40:16 +0000</string>
+			<key>public.markColor</key>
+			<string>0,0.2,0.88,1</string>
+			<key>public.objectLibs</key>
+			<dict>
+				<key>3A63EC79</key>
+				<dict>
+					<key>com.schriftgestaltung.anchor</key>
+					<string>center</string>
+				</dict>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

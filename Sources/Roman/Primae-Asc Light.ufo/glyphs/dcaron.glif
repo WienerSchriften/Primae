@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dcaron" format="2">
+	<unicode hex="010F"/>
+	<advance width="1045"/>
+	<outline>
+		<component base="d"/>
+		<component base="caroncomb.locl" xOffset="980" yOffset="-18"/>
+	</outline>
+	<anchor name="bottom" x="426" y="0"/>
+	<anchor name="center" x="815" y="1108"/>
+	<anchor name="top" x="866" y="1400"/>
+	<anchor name="topright" x="1005" y="1400"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2025-04-24 07:03:58 +0000</string>
+			<key>public.markColor</key>
+			<string>0,0.2,0.88,1</string>
+		</dict>
+	</lib>
+</glyph>

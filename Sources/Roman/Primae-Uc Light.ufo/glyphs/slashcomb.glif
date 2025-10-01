@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="slashcomb" format="2">
+	<unicode hex="0337"/>
+	<outline>
+		<contour>
+			<point x="137" y="635" type="curve" smooth="yes"/>
+			<point x="150" y="635"/>
+			<point x="162" y="643"/>
+			<point x="185" y="663" type="curve" smooth="yes"/>
+			<point x="504" y="934" type="line" smooth="yes"/>
+			<point x="526" y="953"/>
+			<point x="536" y="965"/>
+			<point x="536" y="977" type="curve" smooth="yes"/>
+			<point x="536" y="992"/>
+			<point x="521" y="1017"/>
+			<point x="500" y="1017" type="curve" smooth="yes"/>
+			<point x="488" y="1017"/>
+			<point x="475" y="1009"/>
+			<point x="455" y="992" type="curve" smooth="yes"/>
+			<point x="130" y="716" type="line" smooth="yes"/>
+			<point x="106" y="696"/>
+			<point x="100" y="686"/>
+			<point x="100" y="675" type="curve" smooth="yes"/>
+			<point x="100" y="655"/>
+			<point x="118" y="635"/>
+		</contour>
+	</outline>
+	<anchor name="_center" x="313" y="823"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2025-04-24 07:03:58 +0000</string>
+			<key>public.markColor</key>
+			<string>0.67,0.95,0.38,1</string>
+		</dict>
+	</lib>
+</glyph>

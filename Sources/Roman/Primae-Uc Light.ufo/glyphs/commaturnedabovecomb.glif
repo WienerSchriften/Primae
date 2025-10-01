@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="commaturnedabovecomb" format="2">
+	<unicode hex="0312"/>
+	<outline>
+		<contour>
+			<point x="231" y="1440" type="curve" smooth="yes"/>
+			<point x="218" y="1440"/>
+			<point x="206" y="1432"/>
+			<point x="184" y="1397" type="curve" smooth="yes"/>
+			<point x="128" y="1311"/>
+			<point x="104" y="1221"/>
+			<point x="104" y="1144" type="curve" smooth="yes"/>
+			<point x="104" y="1099"/>
+			<point x="120" y="1085"/>
+			<point x="147" y="1085" type="curve" smooth="yes"/>
+			<point x="178" y="1085"/>
+			<point x="189" y="1103"/>
+			<point x="190" y="1149" type="curve" smooth="yes"/>
+			<point x="192" y="1230"/>
+			<point x="204" y="1282"/>
+			<point x="239" y="1357" type="curve" smooth="yes"/>
+			<point x="255" y="1392"/>
+			<point x="260" y="1404"/>
+			<point x="260" y="1414" type="curve" smooth="yes"/>
+			<point x="260" y="1430"/>
+			<point x="246" y="1440"/>
+		</contour>
+	</outline>
+	<anchor name="_top" x="82" y="910"/>
+	<anchor name="top" x="231" y="1440"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2025-06-11 14:45:14 +0000</string>
+			<key>public.markColor</key>
+			<string>0.67,0.95,0.38,1</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="agrave.ss04" format="2">
+	<advance width="973"/>
+	<outline>
+		<component base="a.ss04"/>
+		<component base="gravecomb" xOffset="299" yOffset="-10"/>
+	</outline>
+	<anchor name="bottom" x="446" y="0"/>
+	<anchor name="ogonek" x="721" y="0"/>
+	<anchor name="top" x="493" y="1445"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2025-04-24 07:03:58 +0000</string>
+			<key>public.markColor</key>
+			<string>0,0.2,0.88,1</string>
+		</dict>
+	</lib>
+</glyph>

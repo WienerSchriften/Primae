@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="K" format="2">
+	<unicode hex="004B"/>
+	<advance width="1228"/>
+	<outline>
+		<contour>
+			<point x="199" y="-11" type="curve" smooth="yes"/>
+			<point x="277" y="-11"/>
+			<point x="326" y="2"/>
+			<point x="330" y="60" type="curve" smooth="yes"/>
+			<point x="422" y="1254" type="line" smooth="yes"/>
+			<point x="424" y="1283"/>
+			<point x="425" y="1301"/>
+			<point x="425" y="1326" type="curve" smooth="yes"/>
+			<point x="425" y="1384"/>
+			<point x="390" y="1400"/>
+			<point x="296" y="1400" type="curve" smooth="yes"/>
+			<point x="209" y="1400"/>
+			<point x="174" y="1369"/>
+			<point x="169" y="1300" type="curve" smooth="yes"/>
+			<point x="83" y="120" type="line" smooth="yes"/>
+			<point x="81" y="96"/>
+			<point x="80" y="79"/>
+			<point x="80" y="70" type="curve" smooth="yes"/>
+			<point x="80" y="7"/>
+			<point x="107" y="-11"/>
+		</contour>
+		<contour>
+			<point x="1041" y="-11" type="curve" smooth="yes"/>
+			<point x="1111" y="-11"/>
+			<point x="1187" y="61"/>
+			<point x="1187" y="130" type="curve" smooth="yes"/>
+			<point x="1187" y="154"/>
+			<point x="1182" y="173"/>
+			<point x="1144" y="211" type="curve" smooth="yes"/>
+			<point x="595" y="764" type="line"/>
+			<point x="586" y="701" type="line"/>
+			<point x="1137" y="1160" type="line" smooth="yes"/>
+			<point x="1195" y="1209"/>
+			<point x="1208" y="1227"/>
+			<point x="1208" y="1265" type="curve" smooth="yes"/>
+			<point x="1208" y="1330"/>
+			<point x="1134" y="1400"/>
+			<point x="1074" y="1400" type="curve" smooth="yes"/>
+			<point x="1046" y="1400"/>
+			<point x="1029" y="1391"/>
+			<point x="994" y="1360" type="curve" smooth="yes"/>
+			<point x="491" y="907" type="line" smooth="yes"/>
+			<point x="421" y="844"/>
+			<point x="401" y="798"/>
+			<point x="401" y="733" type="curve" smooth="yes"/>
+			<point x="401" y="663"/>
+			<point x="427" y="611"/>
+			<point x="494" y="539" type="curve" smooth="yes"/>
+			<point x="948" y="51" type="line" smooth="yes"/>
+			<point x="995" y="1"/>
+			<point x="1014" y="-11"/>
+		</contour>
+	</outline>
+	<anchor name="bottom" x="607" y="0"/>
+	<anchor name="top" x="701" y="1400"/>
+	<anchor name="topleft" x="228" y="1400"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2025-04-24 08:05:07 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>H</string>
+			<key>public.markColor</key>
+			<string>0.67,0.95,0.38,1</string>
+		</dict>
+	</lib>
+</glyph>

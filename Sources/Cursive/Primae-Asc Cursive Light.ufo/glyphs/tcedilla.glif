@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tcedilla" format="2">
+	<unicode hex="0163"/>
+	<advance width="300"/>
+	<outline>
+		<component base="t"/>
+		<component base="cedillacomb" xOffset="-185"/>
+	</outline>
+	<anchor name="bottom" x="48" y="-491"/>
+	<anchor name="center" x="245" y="580"/>
+	<anchor name="top" x="361" y="1120"/>
+	<anchor name="topright" x="470" y="1381"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2025-03-12 14:01:37 +0000</string>
+			<key>public.markColor</key>
+			<string>0,0.2,0.88,1</string>
+		</dict>
+	</lib>
+</glyph>

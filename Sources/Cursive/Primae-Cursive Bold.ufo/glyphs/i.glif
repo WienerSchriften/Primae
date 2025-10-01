@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="i" format="2">
+	<unicode hex="0069"/>
+	<advance width="263"/>
+	<outline>
+		<component base="idotless"/>
+		<component base="dotaccentcomb" xOffset="214"/>
+	</outline>
+	<anchor name="bottom" x="75" y="0"/>
+	<anchor name="ogonek" x="300" y="0"/>
+	<anchor name="top" x="422" y="1436"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2025-05-23 08:37:29 +0000</string>
+			<key>public.markColor</key>
+			<string>0,0.2,0.88,1</string>
+		</dict>
+	</lib>
+</glyph>

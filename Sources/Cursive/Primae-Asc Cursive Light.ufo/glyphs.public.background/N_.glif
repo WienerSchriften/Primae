@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="N" format="2">
+	<advance width="1459"/>
+	<outline>
+		<contour>
+			<point x="1010" y="34" type="curve" smooth="yes"/>
+			<point x="1106" y="418"/>
+			<point x="1291" y="1108"/>
+			<point x="1411" y="1530" type="curve" smooth="yes"/>
+			<point x="1416" y="1548"/>
+			<point x="1419" y="1563"/>
+			<point x="1419" y="1571" type="curve" smooth="yes"/>
+			<point x="1419" y="1588"/>
+			<point x="1398" y="1600"/>
+			<point x="1377" y="1600" type="curve" smooth="yes"/>
+			<point x="1357" y="1600"/>
+			<point x="1347" y="1586"/>
+			<point x="1342" y="1569" type="curve" smooth="yes"/>
+			<point x="1220" y="1123"/>
+			<point x="1039" y="453"/>
+			<point x="965" y="167" type="curve" smooth="yes"/>
+			<point x="934" y="48"/>
+			<point x="932" y="25"/>
+			<point x="932" y="15" type="curve" smooth="yes"/>
+			<point x="932" y="-3"/>
+			<point x="949" y="-12"/>
+			<point x="970" y="-12" type="curve" smooth="yes"/>
+			<point x="988" y="-12"/>
+			<point x="1002" y="1"/>
+		</contour>
+	</outline>
+</glyph>

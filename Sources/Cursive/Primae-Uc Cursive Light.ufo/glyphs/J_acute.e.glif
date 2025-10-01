@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Jacute.e" format="2">
+	<advance width="475"/>
+	<outline>
+		<component base="J.e"/>
+		<component base="acutecomb.case" xOffset="564" yOffset="500"/>
+	</outline>
+	<anchor name="bottom" x="0" y="-470"/>
+	<anchor name="center" x="474" y="717"/>
+	<anchor name="top" x="915" y="1807"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2025-03-12 14:01:37 +0000</string>
+			<key>public.markColor</key>
+			<string>0.5,0.09,0.79,1</string>
+		</dict>
+	</lib>
+</glyph>

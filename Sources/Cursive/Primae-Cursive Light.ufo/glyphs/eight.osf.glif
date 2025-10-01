@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eight.osf" format="2">
+	<advance width="1171"/>
+	<outline>
+		<component base="eight" xOffset="40" identifier="B8C1D48B"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2025-10-01 09:35:41 +0000</string>
+			<key>public.markColor</key>
+			<string>0,0.2,0.88,1</string>
+			<key>public.objectLibs</key>
+			<dict>
+				<key>B8C1D48B</key>
+				<dict>
+					<key>com.schriftgestaltung.alignment</key>
+					<integer>-1</integer>
+					<key>com.schriftgestaltung.locked</key>
+					<true/>
+				</dict>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

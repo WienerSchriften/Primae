@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hyphen.calt" format="2">
+	<advance width="2217"/>
+	<outline>
+		<contour>
+			<point x="210" y="764" type="curve" smooth="yes"/>
+			<point x="1973" y="764" type="line" smooth="yes"/>
+			<point x="1999" y="764"/>
+			<point x="2013" y="775"/>
+			<point x="2013" y="799" type="curve" smooth="yes"/>
+			<point x="2013" y="828"/>
+			<point x="1994" y="839"/>
+			<point x="1968" y="839" type="curve" smooth="yes"/>
+			<point x="215" y="839" type="line" smooth="yes"/>
+			<point x="189" y="839"/>
+			<point x="170" y="828"/>
+			<point x="170" y="799" type="curve" smooth="yes"/>
+			<point x="170" y="775"/>
+			<point x="184" y="764"/>
+		</contour>
+	</outline>
+</glyph>

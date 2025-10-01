@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="udieresis" format="2">
+	<unicode hex="00FC"/>
+	<advance width="780"/>
+	<outline>
+		<component base="u"/>
+		<component base="dieresiscomb" xOffset="387"/>
+	</outline>
+	<anchor name="bottom" x="364" y="0"/>
+	<anchor name="ogonek" x="751" y="0"/>
+	<anchor name="top" x="681" y="1310"/>
+	<anchor name="topright" x="935" y="920"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2025-03-12 14:01:37 +0000</string>
+			<key>public.markColor</key>
+			<string>0,0.2,0.88,1</string>
+		</dict>
+	</lib>
+</glyph>

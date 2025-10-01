@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>ascender</key>
+		<integer>1600</integer>
+		<key>capHeight</key>
+		<integer>1600</integer>
+		<key>copyright</key>
+		<string>Primae © 2021–2025 by Titus Nemeth and Martin Tiefenthaler is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/</string>
+		<key>descender</key>
+		<integer>-670</integer>
+		<key>familyName</key>
+		<string>Primae</string>
+		<key>guidelines</key>
+		<array>
+			<dict>
+				<key>angle</key>
+				<integer>0</integer>
+				<key>x</key>
+				<integer>346</integer>
+				<key>y</key>
+				<integer>63</integer>
+			</dict>
+			<dict>
+				<key>angle</key>
+				<integer>0</integer>
+				<key>x</key>
+				<integer>361</integer>
+				<key>y</key>
+				<integer>-470</integer>
+			</dict>
+			<dict>
+				<key>angle</key>
+				<integer>75</integer>
+				<key>x</key>
+				<integer>263</integer>
+				<key>y</key>
+				<integer>318</integer>
+			</dict>
+		</array>
+		<key>italicAngle</key>
+		<integer>0</integer>
+		<key>note</key>
+		<string>#########################
+
+Superior figures:
+{
+  "width" : [
+    80,
+    80
+  ],
+  "height" : [
+    65,
+    68
+  ],
+  "verticalShift" : [
+    571,
+    520
+  ]
+}
+
+#########################
+
+
+Superior letters:
+{
+  "width" : [
+    83,
+    83
+  ],
+  "weight" : [
+    -5,
+    -40
+  ],
+  "height" : [
+    80,
+    78
+  ],
+  "verticalShift" : [
+    804,
+    804
+  ]
+}
+
+#########################
+</string>
+		<key>openTypeHeadCreated</key>
+		<string>2021/12/30 13:09:40</string>
+		<key>openTypeHheaAscender</key>
+		<integer>2000</integer>
+		<key>openTypeHheaDescender</key>
+		<integer>-700</integer>
+		<key>openTypeHheaLineGap</key>
+		<integer>400</integer>
+		<key>openTypeNameDesigner</key>
+		<string>Titus Nemeth, Martin Tiefenthaler</string>
+		<key>openTypeNameDesignerURL</key>
+		<string>https://www.wienerschriften.at</string>
+		<key>openTypeNameLicense</key>
+		<string>This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.</string>
+		<key>openTypeNameManufacturer</key>
+		<string>Wiener Schriften</string>
+		<key>openTypeNameManufacturerURL</key>
+		<string>https://www.wienerschriften.at</string>
+		<key>openTypeNamePreferredSubfamilyName</key>
+		<string>Light Cursive</string>
+		<key>openTypeOS2Selection</key>
+		<array>
+			<integer>7</integer>
+		</array>
+		<key>openTypeOS2StrikeoutPosition</key>
+		<integer>510</integer>
+		<key>openTypeOS2StrikeoutSize</key>
+		<integer>80</integer>
+		<key>openTypeOS2Type</key>
+		<array>
+		</array>
+		<key>openTypeOS2TypoAscender</key>
+		<integer>2000</integer>
+		<key>openTypeOS2TypoDescender</key>
+		<integer>-700</integer>
+		<key>openTypeOS2TypoLineGap</key>
+		<integer>400</integer>
+		<key>openTypeOS2VendorID</key>
+		<string>WS</string>
+		<key>openTypeOS2WeightClass</key>
+		<integer>200</integer>
+		<key>openTypeOS2WidthClass</key>
+		<integer>5</integer>
+		<key>openTypeOS2WinAscent</key>
+		<integer>2720</integer>
+		<key>openTypeOS2WinDescent</key>
+		<integer>720</integer>
+		<key>postscriptBlueValues</key>
+		<array>
+			<integer>-25</integer>
+			<integer>0</integer>
+			<integer>935</integer>
+			<integer>950</integer>
+			<integer>1085</integer>
+			<integer>1105</integer>
+			<integer>1600</integer>
+			<integer>1625</integer>
+		</array>
+		<key>postscriptFamilyBlues</key>
+		<array>
+			<integer>-20</integer>
+			<integer>0</integer>
+			<integer>961</integer>
+			<integer>976</integer>
+			<integer>1085</integer>
+			<integer>1105</integer>
+			<integer>1600</integer>
+			<integer>1600</integer>
+			<integer>1616</integer>
+			<integer>1625</integer>
+		</array>
+		<key>postscriptFamilyOtherBlues</key>
+		<array>
+			<integer>-690</integer>
+			<integer>-670</integer>
+		</array>
+		<key>postscriptFontName</key>
+		<string>Primae-LightCursive</string>
+		<key>postscriptOtherBlues</key>
+		<array>
+			<integer>-690</integer>
+			<integer>-670</integer>
+		</array>
+		<key>postscriptStemSnapV</key>
+		<array>
+			<integer>80</integer>
+		</array>
+		<key>postscriptUnderlinePosition</key>
+		<integer>-300</integer>
+		<key>postscriptUnderlineThickness</key>
+		<integer>80</integer>
+		<key>styleMapFamilyName</key>
+		<string>Primæ Light</string>
+		<key>styleMapStyleName</key>
+		<string>italic</string>
+		<key>styleName</key>
+		<string>Light Cursive</string>
+		<key>unitsPerEm</key>
+		<integer>2048</integer>
+		<key>versionMajor</key>
+		<integer>2</integer>
+		<key>versionMinor</key>
+		<integer>1</integer>
+		<key>xHeight</key>
+		<integer>935</integer>
+	</dict>
+</plist>

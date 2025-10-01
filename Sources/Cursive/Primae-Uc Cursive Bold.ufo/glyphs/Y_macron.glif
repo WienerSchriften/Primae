@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ymacron" format="2">
+	<unicode hex="0232"/>
+	<advance width="1166"/>
+	<outline>
+		<component base="Y"/>
+		<component base="macroncomb.case" xOffset="392" yOffset="490"/>
+	</outline>
+	<anchor name="bottom" x="123" y="0"/>
+	<anchor name="top" x="787" y="1740"/>
+	<anchor name="topleft" x="18" y="1400"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2025-03-12 14:01:37 +0000</string>
+			<key>public.markColor</key>
+			<string>0.99,0.62,0.11,1</string>
+		</dict>
+	</lib>
+</glyph>

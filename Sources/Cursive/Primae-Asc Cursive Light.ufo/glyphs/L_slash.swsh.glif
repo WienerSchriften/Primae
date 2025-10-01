@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lslash.swsh" format="2">
+	<advance width="1129"/>
+	<outline>
+		<component base="L.swsh"/>
+		<component base="barcomb.case" xOffset="167"/>
+	</outline>
+	<anchor name="bottom" x="453" y="0"/>
+	<anchor name="center" x="507" y="839"/>
+	<anchor name="top" x="984" y="1625"/>
+	<anchor name="topright" x="1250" y="1600"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2025-03-12 14:01:37 +0000</string>
+			<key>public.markColor</key>
+			<string>0.67,0.95,0.38,1</string>
+		</dict>
+	</lib>
+</glyph>

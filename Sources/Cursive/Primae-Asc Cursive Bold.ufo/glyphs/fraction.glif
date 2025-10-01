@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="fraction" format="2">
+	<unicode hex="2044"/>
+	<advance width="393"/>
+	<outline>
+		<contour>
+			<point x="-201" y="-85" type="curve" smooth="yes"/>
+			<point x="-167" y="-85"/>
+			<point x="-144" y="-68"/>
+			<point x="-112" y="-12" type="curve" smooth="yes"/>
+			<point x="660" y="1331" type="line" smooth="yes"/>
+			<point x="700" y="1400"/>
+			<point x="703" y="1417"/>
+			<point x="703" y="1437" type="curve" smooth="yes"/>
+			<point x="703" y="1478"/>
+			<point x="658" y="1524"/>
+			<point x="594" y="1524" type="curve" smooth="yes"/>
+			<point x="560" y="1524"/>
+			<point x="537" y="1507"/>
+			<point x="505" y="1451" type="curve" smooth="yes"/>
+			<point x="-267" y="108" type="line" smooth="yes"/>
+			<point x="-307" y="39"/>
+			<point x="-310" y="33"/>
+			<point x="-310" y="2" type="curve" smooth="yes"/>
+			<point x="-310" y="-40"/>
+			<point x="-259" y="-85"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2025-03-12 14:01:37 +0000</string>
+			<key>public.markColor</key>
+			<string>0.67,0.95,0.38,1</string>
+		</dict>
+	</lib>
+</glyph>

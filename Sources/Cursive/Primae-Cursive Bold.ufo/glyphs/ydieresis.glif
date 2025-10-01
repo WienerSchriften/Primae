@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ydieresis" format="2">
+	<unicode hex="00FF"/>
+	<advance width="761"/>
+	<outline>
+		<component base="y"/>
+		<component base="dieresiscomb" xOffset="293"/>
+	</outline>
+	<anchor name="top" x="668" y="1422"/>
+	<anchor name="topright" x="980" y="1005"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2025-03-12 14:01:37 +0000</string>
+			<key>public.markColor</key>
+			<string>0,0.2,0.88,1</string>
+		</dict>
+	</lib>
+</glyph>

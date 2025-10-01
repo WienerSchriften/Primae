@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ocircumflex.isol" format="2">
+	<advance width="968"/>
+	<outline>
+		<component base="o.isol"/>
+		<component base="circumflexcomb" xOffset="314"/>
+	</outline>
+	<anchor name="bottom" x="260" y="0"/>
+	<anchor name="center" x="408" y="472"/>
+	<anchor name="ogonek" x="270" y="0"/>
+	<anchor name="top" x="663" y="1417"/>
+	<anchor name="topright" x="796" y="910"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2025-03-12 14:01:37 +0000</string>
+			<key>public.markColor</key>
+			<string>0.98,0.36,0.67,1</string>
+		</dict>
+	</lib>
+</glyph>

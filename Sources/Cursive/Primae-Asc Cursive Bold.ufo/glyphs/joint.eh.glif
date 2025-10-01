@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="joint.eh" format="2">
+	<advance width="598"/>
+	<outline>
+		<contour>
+			<point x="-50" y="-12" type="curve" smooth="yes"/>
+			<point x="223" y="-12"/>
+			<point x="505" y="219"/>
+			<point x="859" y="777" type="curve" smooth="yes"/>
+			<point x="894" y="833"/>
+			<point x="897" y="854"/>
+			<point x="897" y="873" type="curve" smooth="yes"/>
+			<point x="897" y="903"/>
+			<point x="851" y="926"/>
+			<point x="829" y="926" type="curve" smooth="yes"/>
+			<point x="802" y="926"/>
+			<point x="794" y="916"/>
+			<point x="775" y="887" type="curve" smooth="yes"/>
+			<point x="410" y="345"/>
+			<point x="220" y="188"/>
+			<point x="0" y="188" type="curve" smooth="yes"/>
+			<point x="-69" y="188"/>
+			<point x="-110" y="132"/>
+			<point x="-110" y="68" type="curve" smooth="yes"/>
+			<point x="-110" y="14"/>
+			<point x="-84" y="-12"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2025-06-12 08:43:17 +0000</string>
+			<key>public.markColor</key>
+			<string>0.65,0.48,0.2,1</string>
+		</dict>
+	</lib>
+</glyph>

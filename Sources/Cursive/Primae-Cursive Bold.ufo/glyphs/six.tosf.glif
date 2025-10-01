@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="six.tosf" format="2">
+	<advance width="1200"/>
+	<outline>
+		<component base="six" xOffset="21" identifier="E1FBD28D"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2025-10-01 09:35:41 +0000</string>
+			<key>public.markColor</key>
+			<string>0,0.2,0.88,1</string>
+			<key>public.objectLibs</key>
+			<dict>
+				<key>E1FBD28D</key>
+				<dict>
+					<key>com.schriftgestaltung.alignment</key>
+					<integer>-1</integer>
+					<key>com.schriftgestaltung.locked</key>
+					<true/>
+				</dict>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

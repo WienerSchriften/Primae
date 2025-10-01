@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="brevecomb" format="2">
+	<unicode hex="0306"/>
+	<outline>
+		<contour>
+			<point x="293" y="1085" type="curve" smooth="yes"/>
+			<point x="417" y="1085"/>
+			<point x="520" y="1148"/>
+			<point x="582" y="1301" type="curve" smooth="yes"/>
+			<point x="610" y="1370"/>
+			<point x="614" y="1394"/>
+			<point x="614" y="1413" type="curve" smooth="yes"/>
+			<point x="614" y="1447"/>
+			<point x="573" y="1477"/>
+			<point x="530" y="1477" type="curve" smooth="yes"/>
+			<point x="507" y="1477"/>
+			<point x="484" y="1467"/>
+			<point x="454" y="1405" type="curve" smooth="yes"/>
+			<point x="397" y="1287"/>
+			<point x="357" y="1255"/>
+			<point x="301" y="1255" type="curve" smooth="yes"/>
+			<point x="241" y="1255"/>
+			<point x="210" y="1288"/>
+			<point x="200" y="1394" type="curve" smooth="yes"/>
+			<point x="195" y="1447"/>
+			<point x="172" y="1466"/>
+			<point x="133" y="1466" type="curve" smooth="yes"/>
+			<point x="77" y="1466"/>
+			<point x="50" y="1434"/>
+			<point x="50" y="1365" type="curve" smooth="yes"/>
+			<point x="50" y="1236"/>
+			<point x="117" y="1085"/>
+		</contour>
+	</outline>
+	<anchor name="_top" x="285" y="985"/>
+	<anchor name="top" x="343" y="1466"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2025-04-24 07:03:58 +0000</string>
+			<key>public.markColor</key>
+			<string>0.67,0.95,0.38,1</string>
+		</dict>
+	</lib>
+</glyph>

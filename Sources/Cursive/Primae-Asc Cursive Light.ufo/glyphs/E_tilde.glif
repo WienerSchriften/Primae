@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Etilde" format="2">
+	<unicode hex="1EBC"/>
+	<advance width="602"/>
+	<outline>
+		<component base="E"/>
+		<component base="tildecomb.case" xOffset="488" yOffset="630"/>
+	</outline>
+	<anchor name="bottom" x="496" y="-20"/>
+	<anchor name="ogonek" x="646" y="0"/>
+	<anchor name="top" x="880" y="1959"/>
+	<anchor name="topleft" x="523" y="1600"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2025-03-12 14:01:37 +0000</string>
+			<key>public.markColor</key>
+			<string>0.99,0.62,0.11,1</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yacute" format="2">
+	<unicode hex="00FD"/>
+	<advance width="916"/>
+	<outline>
+		<component base="y"/>
+		<component base="acutecomb" xOffset="405"/>
+	</outline>
+	<anchor name="top" x="602" y="1441"/>
+	<anchor name="topright" x="886" y="920"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2025-04-24 07:03:58 +0000</string>
+			<key>public.markColor</key>
+			<string>0,0.2,0.88,1</string>
+		</dict>
+	</lib>
+</glyph>

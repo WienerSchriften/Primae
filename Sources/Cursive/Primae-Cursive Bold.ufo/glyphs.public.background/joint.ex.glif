@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="joint.ex" format="2">
+	<advance width="543"/>
+	<outline>
+		<contour>
+			<point x="-50" y="-12" type="curve" smooth="yes"/>
+			<point x="263" y="-12"/>
+			<point x="555" y="261"/>
+			<point x="849" y="862" type="curve" smooth="yes"/>
+			<point x="873" y="911"/>
+			<point x="881" y="942"/>
+			<point x="882" y="970" type="curve" smooth="yes"/>
+			<point x="883" y="997"/>
+			<point x="861" y="1020"/>
+			<point x="827" y="1019" type="curve" smooth="yes"/>
+			<point x="782" y="1019"/>
+			<point x="737" y="989"/>
+			<point x="705" y="923" type="curve" smooth="yes"/>
+			<point x="455" y="413"/>
+			<point x="208" y="188"/>
+			<point x="0" y="188" type="curve" smooth="yes"/>
+			<point x="-66" y="188"/>
+			<point x="-110" y="129"/>
+			<point x="-110" y="56" type="curve" smooth="yes"/>
+			<point x="-110" y="10"/>
+			<point x="-89" y="-12"/>
+		</contour>
+	</outline>
+</glyph>

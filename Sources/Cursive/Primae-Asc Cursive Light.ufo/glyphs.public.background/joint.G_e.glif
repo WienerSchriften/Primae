@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="joint.Ge" format="2">
+	<advance width="365"/>
+	<outline>
+		<contour>
+			<point x="421" y="260" type="curve" smooth="yes"/>
+			<point x="316" y="199"/>
+			<point x="142" y="133"/>
+			<point x="-8" y="78" type="curve" smooth="yes"/>
+			<point x="-85" y="50"/>
+			<point x="-155" y="23"/>
+			<point x="-207" y="1" type="curve" smooth="yes"/>
+			<point x="-241" y="-13"/>
+			<point x="-248" y="-29"/>
+			<point x="-248" y="-45" type="curve" smooth="yes"/>
+			<point x="-248" y="-57"/>
+			<point x="-238" y="-69"/>
+			<point x="-223" y="-69" type="curve" smooth="yes"/>
+			<point x="-216" y="-69"/>
+			<point x="-202" y="-67"/>
+			<point x="-183" y="-58" type="curve" smooth="yes"/>
+			<point x="-140" y="-37"/>
+			<point x="-65" y="-8"/>
+			<point x="21" y="24" type="curve" smooth="yes"/>
+			<point x="164" y="78"/>
+			<point x="336" y="144"/>
+			<point x="441" y="205" type="curve" smooth="yes"/>
+			<point x="475" y="225"/>
+			<point x="478" y="234"/>
+			<point x="478" y="251" type="curve" smooth="yes"/>
+			<point x="478" y="263"/>
+			<point x="475" y="274"/>
+			<point x="460" y="274" type="curve" smooth="yes"/>
+			<point x="451" y="274"/>
+			<point x="440" y="271"/>
+		</contour>
+	</outline>
+</glyph>

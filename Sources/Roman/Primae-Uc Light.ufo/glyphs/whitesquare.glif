@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="whitesquare" format="2">
+	<unicode hex="25A1"/>
+	<advance width="1708"/>
+	<outline>
+		<contour>
+			<point x="427" y="301" type="line"/>
+			<point x="1281" y="301" type="line"/>
+			<point x="1281" y="1155" type="line"/>
+			<point x="427" y="1155" type="line"/>
+		</contour>
+		<contour>
+			<point x="505" y="379" type="line"/>
+			<point x="505" y="1077" type="line"/>
+			<point x="1203" y="1077" type="line"/>
+			<point x="1203" y="379" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2025-04-24 07:03:58 +0000</string>
+			<key>public.markColor</key>
+			<string>0.67,0.95,0.38,1</string>
+		</dict>
+	</lib>
+</glyph>

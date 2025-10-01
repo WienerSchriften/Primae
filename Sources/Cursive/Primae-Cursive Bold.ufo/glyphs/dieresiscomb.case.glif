@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresiscomb.case" format="2">
+	<outline>
+		<contour>
+			<point x="163" y="1095" type="curve" smooth="yes"/>
+			<point x="244" y="1095"/>
+			<point x="319" y="1162"/>
+			<point x="319" y="1256" type="curve" smooth="yes"/>
+			<point x="319" y="1327"/>
+			<point x="276" y="1373"/>
+			<point x="205" y="1373" type="curve" smooth="yes"/>
+			<point x="123" y="1373"/>
+			<point x="50" y="1309"/>
+			<point x="50" y="1216" type="curve" smooth="yes"/>
+			<point x="50" y="1148"/>
+			<point x="90" y="1095"/>
+		</contour>
+		<contour>
+			<point x="604" y="1095" type="curve" smooth="yes"/>
+			<point x="687" y="1095"/>
+			<point x="763" y="1163"/>
+			<point x="763" y="1256" type="curve" smooth="yes"/>
+			<point x="763" y="1327"/>
+			<point x="718" y="1373"/>
+			<point x="647" y="1373" type="curve" smooth="yes"/>
+			<point x="565" y="1373"/>
+			<point x="494" y="1310"/>
+			<point x="494" y="1216" type="curve" smooth="yes"/>
+			<point x="494" y="1148"/>
+			<point x="532" y="1095"/>
+		</contour>
+	</outline>
+	<anchor name="_top" x="341" y="925"/>
+	<anchor name="top" x="426" y="1373"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2025-03-13 19:02:19 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>dotaccentcomb</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>dotaccentcomb</string>
+			<key>public.markColor</key>
+			<string>0.67,0.95,0.38,1</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zerosuperior" format="2">
+	<unicode hex="2070"/>
+	<advance width="793"/>
+	<outline>
+		<contour>
+			<point x="289" y="989" type="curve" smooth="yes"/>
+			<point x="514" y="989"/>
+			<point x="723" y="1279"/>
+			<point x="723" y="1578" type="curve" smooth="yes"/>
+			<point x="723" y="1742"/>
+			<point x="643" y="1828"/>
+			<point x="523" y="1828" type="curve" smooth="yes"/>
+			<point x="299" y="1828"/>
+			<point x="90" y="1538"/>
+			<point x="90" y="1239" type="curve" smooth="yes"/>
+			<point x="90" y="1075"/>
+			<point x="170" y="989"/>
+		</contour>
+		<contour>
+			<point x="305" y="1064" type="curve" smooth="yes"/>
+			<point x="221" y="1064"/>
+			<point x="170" y="1124"/>
+			<point x="170" y="1243" type="curve" smooth="yes"/>
+			<point x="170" y="1478"/>
+			<point x="324" y="1753"/>
+			<point x="506" y="1753" type="curve" smooth="yes"/>
+			<point x="592" y="1753"/>
+			<point x="643" y="1693"/>
+			<point x="643" y="1574" type="curve" smooth="yes"/>
+			<point x="643" y="1339"/>
+			<point x="489" y="1064"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>RMXScaler</key>
+			<dict>
+				<key>height</key>
+				<integer>65</integer>
+				<key>verticalShift</key>
+				<integer>571</integer>
+				<key>width</key>
+				<integer>80</integer>
+			</dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2025-03-12 14:01:37 +0000</string>
+			<key>public.markColor</key>
+			<string>0.67,0.95,0.38,1</string>
+		</dict>
+	</lib>
+</glyph>

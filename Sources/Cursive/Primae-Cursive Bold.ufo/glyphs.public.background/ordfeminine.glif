@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ordfeminine" format="2">
+	<advance width="970"/>
+	<outline>
+		<contour>
+			<point x="699" y="795" type="move"/>
+			<point x="818" y="795"/>
+			<point x="970" y="914"/>
+			<point x="970" y="978" type="curve" smooth="yes"/>
+			<point x="970" y="1006"/>
+			<point x="928" y="1046"/>
+			<point x="890" y="1046" type="curve" smooth="yes"/>
+			<point x="876" y="1046"/>
+			<point x="864" y="1036"/>
+			<point x="847" y="1022" type="curve" smooth="yes"/>
+			<point x="811" y="992"/>
+			<point x="784" y="969"/>
+			<point x="758" y="969" type="curve" smooth="yes"/>
+			<point x="740" y="969"/>
+			<point x="728" y="979"/>
+			<point x="728" y="1003" type="curve" smooth="yes"/>
+			<point x="728" y="1022"/>
+			<point x="734" y="1047"/>
+			<point x="747" y="1090" type="curve" smooth="yes"/>
+			<point x="860" y="1476" type="line" smooth="yes"/>
+			<point x="871" y="1513"/>
+			<point x="872" y="1530"/>
+			<point x="872" y="1540" type="curve" smooth="yes"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.glyph.userData</key>
+			<dict>
+				<key>RMXScaler</key>
+				<dict>
+					<key>source</key>
+					<string>a</string>
+				</dict>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

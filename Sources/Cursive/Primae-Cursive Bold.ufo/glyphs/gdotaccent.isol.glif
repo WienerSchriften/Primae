@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gdotaccent.isol" format="2">
+	<advance width="1114"/>
+	<outline>
+		<component base="g.isol"/>
+		<component base="dotaccentcomb" xOffset="488"/>
+	</outline>
+	<anchor name="bottom" x="230" y="-670"/>
+	<anchor name="top" x="696" y="1436"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2025-03-12 14:01:37 +0000</string>
+			<key>public.markColor</key>
+			<string>0,0.2,0.88,1</string>
+		</dict>
+	</lib>
+</glyph>

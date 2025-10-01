@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="R.swsh" format="2">
-	<advance width="1212"/>
-	<outline>
-		<contour>
-			<point x="1643" y="-273" type="move"/>
-		</contour>
-	</outline>
-</glyph>
