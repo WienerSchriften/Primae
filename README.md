@@ -53,6 +53,8 @@ At the time of writing (28 September 2023), some Adobe Creative Cloud applicatio
 
 [Open an issue](https://github.com/wienerschriften/primae/issues) or send a suggestion to the designers of Primæ for consideration in future developments.
 
+If you want to support the further development of Primæ financially you can make a donation through [LiberaPay](https://liberapay.com/WienerSchriften/).
+
 ## Building the fonts from source
 
 There are a number of font editors and tools – both open source and proprietary – that can be used to build the fonts from the .ufo sources. We do not prescribe which tool is used, nor do we currently offer technical support building the fonts.
