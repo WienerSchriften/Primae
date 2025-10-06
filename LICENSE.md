@@ -1,6 +1,6 @@
 # License 
 
-Prima Copyright © 2021–2025 by Titus Nemeth & Martin Tiefenthaler. All Rights Reserved. 
+Primæ Copyright © 2021–2025 by Titus Nemeth & Martin Tiefenthaler. All Rights Reserved. 
 
 This Font Software is licensed under CC BY-NC-SA 4.0 (Attribution-NonCommercial-ShareAlike 4.0 International)
 
