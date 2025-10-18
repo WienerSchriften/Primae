@@ -484,6 +484,8 @@
 		<string>dotbelowcomb.glif</string>
 		<key>dotbelowcomb.case</key>
 		<string>dotbelowcomb.case.glif</string>
+		<key>dotmath</key>
+		<string>dotmath.glif</string>
 		<key>e</key>
 		<string>e.glif</string>
 		<key>eacute</key>

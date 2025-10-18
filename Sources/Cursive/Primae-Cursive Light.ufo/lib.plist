@@ -3,7 +3,7 @@
 <plist version="1.0">
 	<dict>
 		<key>com.schriftgestaltung.appVersion</key>
-		<string>3430</string>
+		<string>3435</string>
 		<key>com.schriftgestaltung.axes</key>
 		<array>
 			<dict>
@@ -784,6 +784,7 @@
 			<string>plus</string>
 			<string>minus</string>
 			<string>multiply</string>
+			<string>dotmath</string>
 			<string>divide</string>
 			<string>equal</string>
 			<string>notequal</string>
@@ -1090,11 +1091,11 @@
 		<true/>
 		<key>org.unifiedfontobject.normalizer.modTimes</key>
 		<string>version: 0.6.3
-1759320066.7 fontinfo.plist
-1759320066.7 groups.plist
-1759320066.7 kerning.plist
-1759320066.7 layercontents.plist
-1759320066.7 metainfo.plist</string>
+1760778500.0 fontinfo.plist
+1760778500.0 groups.plist
+1760778500.0 kerning.plist
+1760779354.3 layercontents.plist
+1760778500.0 metainfo.plist</string>
 		<key>public.glyphOrder</key>
 		<array>
 			<string>.notdef</string>
@@ -1717,6 +1718,7 @@
 			<string>plus</string>
 			<string>minus</string>
 			<string>multiply</string>
+			<string>dotmath</string>
 			<string>divide</string>
 			<string>equal</string>
 			<string>notequal</string>

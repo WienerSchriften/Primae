@@ -1,4 +1,8 @@
 # Release notes
+## version 2.002 created 2025/10/18
+* added DOT OPERATOR (U+22C5) glyph 
+* adjusted height of currency symbols to match figures in Primæ Text
+
 ## version 2.001 created 2025/10/01
 New major version including:
 * name change to Primæ
