@@ -245,10 +245,11 @@
 	markClass [slashcomb] <anchor 378 833> @mark_center;
 	markClass [slashlongcomb] <anchor 505 458> @mark_center;
 	markClass [caroncomb.locl] <anchor -4 1418> @mark_topright;
-@anchor_ogonek = [ogonekcomb];
-@anchor_bottom = [commaaccentcomb commaaccentcomb.case cedillacomb dotbelowcomb dotbelowcomb.case cedillacomb.case];
 @anchor_center = [macroncomb barcomb slashcomb slashlongcomb];
-@anchor_top = [commaturnedabovecomb dieresiscomb dotaccentcomb gravecomb acutecomb hungarumlautcomb circumflexcomb caroncomb brevecomb ringcomb tildecomb macroncomb dieresiscomb.case gravecomb.case acutecomb.case hungarumlautcomb.case circumflexcomb.case caroncomb.case brevecomb.case ringcomb.case tildecomb.case macroncomb.case caroncomb.locl];
+@anchor_ogonek = [ogonekcomb];
+@anchor_top = [commaturnedabovecomb dieresiscomb dotaccentcomb gravecomb acutecomb hungarumlautcomb circumflexcomb caroncomb brevecomb ringcomb tildecomb macroncomb dieresiscomb.case gravecomb.case acutecomb.case hungarumlautcomb.case circumflexcomb.case caroncomb.case brevecomb.case ringcomb.case tildecomb.case macroncomb.case];
+@anchor_topright = [caroncomb.locl];
+@anchor_bottom = [commaaccentcomb commaaccentcomb.case cedillacomb dotbelowcomb dotbelowcomb.case cedillacomb.case];
 ### class:0:Uppercase ###
 @Uppercase = [
 ### open class 'Uppercase' ###

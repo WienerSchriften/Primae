@@ -290,10 +290,11 @@
 	markClass [cedillacomb.case] <anchor 283 0> @mark_bottom;
 	markClass [dotbelowcomb.case] <anchor 258 0> @mark_bottom;
 	markClass [caroncomb.locl] <anchor 0 1418> @mark_topright;
-@anchor_ogonek = [ogonekcomb];
-@anchor_bottom = [commaaccentcomb commaaccentcomb.case cedillacomb dotbelowcomb cedillacomb.case dotbelowcomb.case];
 @anchor_center = [macroncomb barcomb slashcomb slashlongcomb];
+@anchor_ogonek = [ogonekcomb];
 @anchor_top = [commaturnedabovecomb dieresiscomb dotaccentcomb gravecomb acutecomb hungarumlautcomb circumflexcomb caroncomb brevecomb ringcomb tildecomb macroncomb dieresiscomb.case gravecomb.case acutecomb.case hungarumlautcomb.case circumflexcomb.case caroncomb.case brevecomb.case ringcomb.case tildecomb.case macroncomb.case caroncomb.locl];
+@anchor_topright = [caroncomb.locl];
+@anchor_bottom = [commaaccentcomb commaaccentcomb.case cedillacomb dotbelowcomb cedillacomb.case dotbelowcomb.case];
 ### class:0:Uppercase ###
 @Uppercase = [
 ### open class 'Uppercase' ###
@@ -1168,6 +1169,7 @@ lookup k-salt {
 
 lookup germandbls-salt {
 	sub germandbls by germandbls.salt ;
+	sub germandbls.isol by germandbls.isol.salt ;
 } germandbls-salt ;
 
 lookup t-salt {
@@ -1319,7 +1321,15 @@ lookup figurepunctuation {
 
 # -------------------------------------------------------------------------------
 # dedicated positional forms
-#
+
+# sub default ß by germandbls.isol unless preceded or followed by other alphabetic character
+
+lookup germandbls-isol {
+ignore sub germandbls' [ @Uppercase @Lowercase @k-salt x x.isol ] ;
+ignore sub [ @Uppercase @Lowercase @k-salt x x.isol ] germandbls' ;
+	sub germandbls' by germandbls.isol ;
+	sub germandbls.salt' by germandbls.isol.salt ;
+} germandbls-isol ;
 
 # sub default g by g.isol unless preceded or followed by other alphabetic character
 
@@ -1618,7 +1628,8 @@ lookup finial {
 
 # add outstroke after joining uc and lc if followed by stylistic alternates
 lookup finial_explicit {
-	sub [ @e-right @n-right @t-right ]' [ @g-fina @j-fina @k-salt @y-fina ] by [ @e-right @n-right @t-right ] finial ;
+	sub [ @n-right @t-right ]' [ @g-fina @j-fina @k-salt @y-fina ] by [ @n-right @t-right ] finial ;
+	sub @e-right' [@g-fina @j-fina @k-salt @y-fina ] by @e-right finial.e ;
 	sub @f-right' [ @g-fina @j-fina @k-salt @y-fina ] by @f-right finial.f ;
 	sub @j' [ @g-fina @j-fina @k-salt @y-fina ] by @j-fina ;
 	sub @g' [ @g-fina @j-fina @k-salt @y-fina ] by @g-fina ;
@@ -1922,6 +1933,8 @@ sub s.init joint.sinite e.medi joint.eh h.medi joint.nn r finial.r space g joint
 feature cv01 {
 ### open feature 'cv01' ###
 lookup cv01 {
+sub germandbls by germandbls.isol;
+sub germandbls.salt by germandbls.isol.salt;
 sub pencil by pencil.cv01;
 } cv01 ;
 ### close feature 'cv01' ###
@@ -2455,7 +2468,7 @@ feature kern {
 		pos @MMK_L_L.isol @MMK_R_z 40;
 		pos @MMK_L_N @MMK_R_a -30;
 		pos @MMK_L_N @MMK_R_j 30;
-		pos @MMK_L_N @MMK_R_o -30;
+		pos @MMK_L_N @MMK_R_o -50;
 		pos @MMK_L_N @MMK_R_schwa -30;
 		pos @MMK_L_N @MMK_R_x -30;
 		pos @MMK_L_O @MMK_R_f -80;
@@ -2655,7 +2668,7 @@ feature mark {
 		pos base L.isol <anchor 476 0> mark @mark_bottom <anchor 560 1600> mark @mark_top;
 		pos base L.swsh <anchor 453 0> mark @mark_bottom <anchor 984 1625> mark @mark_top;
 		pos base M <anchor 978 0> mark @mark_bottom <anchor 1523 1600> mark @mark_top;
-		pos base N <anchor 608 -12> mark @mark_bottom <anchor 988 1600> mark @mark_top;
+		pos base N <anchor 615 -12> mark @mark_bottom <anchor 995 1600> mark @mark_top;
 		pos base O <anchor 541 0> mark @mark_bottom <anchor 940 1600> mark @mark_top;
 		pos base P <anchor 120 0> mark @mark_bottom <anchor 729 1600> mark @mark_top;
 		pos base Q <anchor 541 0> mark @mark_bottom <anchor 940 1600> mark @mark_top;
@@ -2779,10 +2792,10 @@ feature mark {
 		pos base Lcaron <anchor 520 0> mark @mark_bottom <anchor 1570 1648> mark @mark_top;
 		pos base Lcommaaccent <anchor 345 -614> mark @mark_bottom <anchor 994 1625> mark @mark_top;
 		pos base Lslash <anchor 453 0> mark @mark_bottom <anchor 984 1625> mark @mark_top;
-		pos base Nacute <anchor 608 -12> mark @mark_bottom <anchor 1190 2143> mark @mark_top;
-		pos base Ncaron <anchor 608 -12> mark @mark_bottom <anchor 1132 2113> mark @mark_top;
-		pos base Ncommaaccent <anchor 433 -626> mark @mark_bottom <anchor 988 1600> mark @mark_top;
-		pos base Ntilde <anchor 608 -12> mark @mark_bottom <anchor 1114 2072> mark @mark_top;
+		pos base Nacute <anchor 615 -12> mark @mark_bottom <anchor 1197 2143> mark @mark_top;
+		pos base Ncaron <anchor 615 -12> mark @mark_bottom <anchor 1139 2113> mark @mark_top;
+		pos base Ncommaaccent <anchor 440 -626> mark @mark_bottom <anchor 995 1600> mark @mark_top;
+		pos base Ntilde <anchor 615 -12> mark @mark_bottom <anchor 1121 2072> mark @mark_top;
 		pos base Oacute <anchor 541 0> mark @mark_bottom <anchor 1142 2143> mark @mark_top;
 		pos base Ocircumflex <anchor 541 0> mark @mark_bottom <anchor 1078 2120> mark @mark_top;
 		pos base Odieresis <anchor 541 0> mark @mark_bottom <anchor 1025 2048> mark @mark_top;

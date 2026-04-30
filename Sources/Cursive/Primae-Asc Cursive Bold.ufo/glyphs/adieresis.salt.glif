@@ -105,11 +105,9 @@
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2025-03-12 14:01:37 +0000</string>
+			<string>2026-04-23 09:17:33 +0000</string>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
 			<string>a</string>
-			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-			<string>aogonek</string>
 			<key>public.markColor</key>
 			<string>0.67,0.95,0.38,1</string>
 		</dict>

@@ -114,14 +114,14 @@
 		<string>one.glif</string>
 		<key>one.osf</key>
 		<string>one.osf.glif</string>
-		<key>p</key>
-		<string>p.glif</string>
 		<key>paragraph</key>
 		<string>paragraph.glif</string>
 		<key>parenright</key>
 		<string>parenright.glif</string>
 		<key>percent</key>
 		<string>percent.glif</string>
+		<key>perthousand</key>
+		<string>perthousand.glif</string>
 		<key>q.ss02</key>
 		<string>q.ss02.glif</string>
 		<key>questiondown</key>

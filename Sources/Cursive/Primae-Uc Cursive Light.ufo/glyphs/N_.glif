@@ -1,68 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="N" format="2">
 	<unicode hex="004E"/>
-	<advance width="1369"/>
+	<advance width="1336"/>
 	<outline>
 		<contour>
-			<point x="466" y="1279" type="curve" smooth="yes"/>
-			<point x="869" y="45" type="line" smooth="yes"/>
-			<point x="885" y="-3"/>
-			<point x="894" y="-11"/>
-			<point x="914" y="-11" type="curve" smooth="yes"/>
-			<point x="936" y="-11"/>
-			<point x="946" y="-3"/>
-			<point x="959" y="46" type="curve" smooth="yes"/>
-			<point x="1026" y="298"/>
-			<point x="1281" y="1197"/>
-			<point x="1315" y="1315" type="curve" smooth="yes"/>
-			<point x="1325" y="1348"/>
-			<point x="1329" y="1367"/>
-			<point x="1329" y="1375" type="curve" smooth="yes"/>
-			<point x="1329" y="1395"/>
-			<point x="1308" y="1406"/>
-			<point x="1289" y="1406" type="curve" smooth="yes"/>
-			<point x="1271" y="1406"/>
-			<point x="1261" y="1393"/>
-			<point x="1254" y="1370" type="curve" smooth="yes"/>
-			<point x="1203" y="1209"/>
-			<point x="956" y="308"/>
-			<point x="906" y="98" type="curve"/>
-			<point x="926" y="108" type="line"/>
-			<point x="526" y="1352" type="line" smooth="yes"/>
-			<point x="512" y="1395"/>
-			<point x="504" y="1406"/>
-			<point x="485" y="1406" type="curve" smooth="yes"/>
-			<point x="459" y="1406"/>
-			<point x="440" y="1393"/>
-			<point x="440" y="1372" type="curve" smooth="yes"/>
-			<point x="440" y="1355"/>
-			<point x="448" y="1333"/>
-		</contour>
-		<contour>
-			<point x="512" y="1233" type="curve"/>
-			<point x="475" y="1350" type="line"/>
-			<point x="375" y="967"/>
-			<point x="181" y="291"/>
-			<point x="120" y="73" type="curve" smooth="yes"/>
-			<point x="112" y="45"/>
-			<point x="110" y="34"/>
-			<point x="110" y="24" type="curve" smooth="yes"/>
-			<point x="110" y="0"/>
-			<point x="130" y="-11"/>
-			<point x="152" y="-11" type="curve" smooth="yes"/>
-			<point x="168" y="-11"/>
-			<point x="180" y="-3"/>
-			<point x="188" y="25" type="curve" smooth="yes"/>
-			<point x="249" y="242"/>
-			<point x="432" y="922"/>
+			<point x="835" y="33" type="line"/>
+			<point x="845" y="-3"/>
+			<point x="857" y="-11"/>
+			<point x="873" y="-11" type="curve" smooth="yes"/>
+			<point x="897" y="-11"/>
+			<point x="912" y="1"/>
+			<point x="925" y="43" type="curve" smooth="yes"/>
+			<point x="998" y="286"/>
+			<point x="1280" y="1196"/>
+			<point x="1320" y="1311" type="curve" smooth="yes"/>
+			<point x="1333" y="1347"/>
+			<point x="1336" y="1364"/>
+			<point x="1336" y="1372" type="curve" smooth="yes"/>
+			<point x="1336" y="1389"/>
+			<point x="1317" y="1400"/>
+			<point x="1297" y="1400" type="curve" smooth="yes"/>
+			<point x="1278" y="1400"/>
+			<point x="1269" y="1386"/>
+			<point x="1261" y="1365" type="curve" smooth="yes"/>
+			<point x="1202" y="1205"/>
+			<point x="931" y="307"/>
+			<point x="875" y="98" type="curve"/>
+			<point x="894" y="105" type="line"/>
+			<point x="560" y="1361" type="line" smooth="yes"/>
+			<point x="552" y="1391"/>
+			<point x="545" y="1400"/>
+			<point x="526" y="1400" type="curve" smooth="yes"/>
+			<point x="505" y="1400"/>
+			<point x="493" y="1395"/>
+			<point x="485" y="1365" type="curve" smooth="yes"/>
+			<point x="382" y="1003"/>
+			<point x="185" y="276"/>
+			<point x="123" y="79" type="curve" smooth="yes"/>
+			<point x="112" y="44"/>
+			<point x="110" y="36"/>
+			<point x="110" y="22" type="curve" smooth="yes"/>
+			<point x="110" y="2"/>
+			<point x="128" y="-11"/>
+			<point x="149" y="-11" type="curve" smooth="yes"/>
+			<point x="164" y="-11"/>
+			<point x="177" y="-4"/>
+			<point x="186" y="24" type="curve" smooth="yes"/>
+			<point x="256" y="243"/>
+			<point x="450" y="971"/>
+			<point x="528" y="1247" type="curve"/>
+			<point x="515" y="1247" type="line"/>
 		</contour>
 	</outline>
-	<anchor name="bottom" x="555" y="-1"/>
-	<anchor name="top" x="898" y="1400"/>
+	<anchor name="bottom" x="531" y="-2"/>
+	<anchor name="top" x="910" y="1400"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2025-04-04 07:44:18 +0000</string>
+			<string>2026-04-24 12:36:24 +0000</string>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
 			<string>I</string>
 			<key>public.markColor</key>

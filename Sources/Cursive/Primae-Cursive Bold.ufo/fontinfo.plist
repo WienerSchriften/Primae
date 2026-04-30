@@ -7,7 +7,7 @@
 		<key>capHeight</key>
 		<integer>1600</integer>
 		<key>copyright</key>
-		<string>Primae © 2021–2025 by Titus Nemeth and Martin Tiefenthaler is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/</string>
+		<string>Primae © 2021–2026 by Titus Nemeth and Martin Tiefenthaler is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/</string>
 		<key>descender</key>
 		<integer>-670</integer>
 		<key>familyName</key>
@@ -42,13 +42,13 @@
 				<key>angle</key>
 				<integer>255</integer>
 				<key>x</key>
-				<integer>723</integer>
+				<integer>1208</integer>
 				<key>y</key>
-				<integer>318</integer>
+				<integer>423</integer>
 			</dict>
 		</array>
 		<key>italicAngle</key>
-		<integer>0</integer>
+		<string>15</string>
 		<key>note</key>
 		<string>#########################
 
@@ -111,8 +111,6 @@ Superior letters:
 		<string>Wiener Schriften</string>
 		<key>openTypeNameManufacturerURL</key>
 		<string>https://www.wienerschriften.at</string>
-		<key>openTypeNamePreferredSubfamilyName</key>
-		<string>Bold Cursive</string>
 		<key>openTypeOS2Selection</key>
 		<array>
 			<integer>7</integer>
@@ -171,6 +169,8 @@ Superior letters:
 		</array>
 		<key>postscriptFontName</key>
 		<string>Primae-BoldCursive</string>
+		<key>postscriptFullName</key>
+		<string>Primæ Bold Cursive</string>
 		<key>postscriptOtherBlues</key>
 		<array>
 			<integer>-690</integer>
@@ -184,8 +184,6 @@ Superior letters:
 		<integer>-300</integer>
 		<key>postscriptUnderlineThickness</key>
 		<integer>80</integer>
-		<key>styleMapFamilyName</key>
-		<string>Primæ</string>
 		<key>styleMapStyleName</key>
 		<string>bold italic</string>
 		<key>styleName</key>
@@ -195,7 +193,7 @@ Superior letters:
 		<key>versionMajor</key>
 		<integer>2</integer>
 		<key>versionMinor</key>
-		<integer>2</integer>
+		<integer>3</integer>
 		<key>xHeight</key>
 		<integer>1020</integer>
 	</dict>

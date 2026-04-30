@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ncaron" format="2">
 	<unicode hex="0147"/>
-	<advance width="1369"/>
+	<advance width="1336"/>
 	<outline>
 		<component base="N"/>
-		<component base="caroncomb.case" xOffset="685" yOffset="490"/>
+		<component base="caroncomb.case" xOffset="697" yOffset="490"/>
 	</outline>
-	<anchor name="bottom" x="555" y="-1"/>
-	<anchor name="top" x="1016" y="1858"/>
+	<anchor name="bottom" x="531" y="-2"/>
+	<anchor name="top" x="1028" y="1858"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>

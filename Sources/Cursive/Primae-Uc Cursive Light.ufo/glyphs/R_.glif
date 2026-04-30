@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="R" format="2">
 	<unicode hex="0052"/>
-	<advance width="910"/>
+	<advance width="940"/>
 	<outline>
 		<contour>
 			<point x="143" y="51" type="curve" smooth="yes"/>
@@ -42,9 +42,9 @@
 			<point x="407" y="455"/>
 			<point x="529" y="281" type="curve" smooth="yes"/>
 			<point x="702" y="35"/>
-			<point x="763" y="-11"/>
-			<point x="876" y="-11" type="curve" smooth="yes"/>
-			<point x="911" y="-11"/>
+			<point x="763" y="-12"/>
+			<point x="876" y="-12" type="curve" smooth="yes"/>
+			<point x="911" y="-12"/>
 			<point x="931" y="12"/>
 			<point x="931" y="29" type="curve" smooth="yes"/>
 			<point x="931" y="56"/>
@@ -75,7 +75,7 @@
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2025-04-24 09:11:03 +0000</string>
+			<string>2026-04-14 08:56:24 +0000</string>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
 			<string>P</string>
 			<key>public.markColor</key>

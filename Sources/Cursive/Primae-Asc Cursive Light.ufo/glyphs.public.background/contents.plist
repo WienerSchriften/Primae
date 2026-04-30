@@ -110,6 +110,10 @@
 		<string>g.medi.e.glif</string>
 		<key>gClef-musical</key>
 		<string>gC_lef-musical.glif</string>
+		<key>germandbls</key>
+		<string>germandbls.glif</string>
+		<key>germandbls.isol.salt</key>
+		<string>germandbls.isol.salt.glif</string>
 		<key>germandbls.salt</key>
 		<string>germandbls.salt.glif</string>
 		<key>guilsinglright</key>

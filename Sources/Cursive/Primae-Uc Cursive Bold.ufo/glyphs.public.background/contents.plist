@@ -8,6 +8,8 @@
 		<string>B__r_a_v_o_exclam_exclam_exclam.glif</string>
 		<key>E</key>
 		<string>E_.glif</string>
+		<key>Eng</key>
+		<string>E_ng.glif</string>
 		<key>Eogonek.isol</key>
 		<string>E_ogonek.isol.glif</string>
 		<key>F</key>
@@ -52,6 +54,8 @@
 		<string>R_.isol.glif</string>
 		<key>Uogonek</key>
 		<string>U_ogonek.glif</string>
+		<key>Z</key>
+		<string>Z_.glif</string>
 		<key>_part.Qtail</key>
 		<string>_part.Q_tail.glif</string>
 		<key>a</key>
@@ -62,6 +66,8 @@
 		<string>adieresis.medi.glif</string>
 		<key>adieresis.medi.salt</key>
 		<string>adieresis.medi.salt.glif</string>
+		<key>adieresis.salt</key>
+		<string>adieresis.salt.glif</string>
 		<key>ae</key>
 		<string>ae.glif</string>
 		<key>aogonek</key>
@@ -126,6 +132,10 @@
 		<string>g.medi.e.glif</string>
 		<key>germandbls</key>
 		<string>germandbls.glif</string>
+		<key>germandbls.isol</key>
+		<string>germandbls.isol.glif</string>
+		<key>germandbls.isol.salt</key>
+		<string>germandbls.isol.salt.glif</string>
 		<key>germandbls.salt</key>
 		<string>germandbls.salt.glif</string>
 		<key>gravecomb</key>
@@ -178,6 +188,10 @@
 		<string>joint.oh.glif</string>
 		<key>joint.ph</key>
 		<string>joint.ph.glif</string>
+		<key>joint.qn</key>
+		<string>joint.qn.glif</string>
+		<key>joint.qs</key>
+		<string>joint.qs.glif</string>
 		<key>joint.sschwa</key>
 		<string>joint.sschwa.glif</string>
 		<key>k</key>
@@ -216,6 +230,8 @@
 		<string>p.glif</string>
 		<key>parenright</key>
 		<string>parenright.glif</string>
+		<key>perthousand</key>
+		<string>perthousand.glif</string>
 		<key>plus</key>
 		<string>plus.glif</string>
 		<key>q.medi</key>

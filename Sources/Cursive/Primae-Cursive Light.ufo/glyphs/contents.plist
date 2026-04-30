@@ -820,6 +820,10 @@
 		<string>germandbls.glif</string>
 		<key>germandbls.calt</key>
 		<string>germandbls.calt.glif</string>
+		<key>germandbls.isol</key>
+		<string>germandbls.isol.glif</string>
+		<key>germandbls.isol.salt</key>
+		<string>germandbls.isol.salt.glif</string>
 		<key>germandbls.salt</key>
 		<string>germandbls.salt.glif</string>
 		<key>grave</key>

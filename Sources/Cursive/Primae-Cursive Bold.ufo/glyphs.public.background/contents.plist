@@ -62,6 +62,8 @@
 		<string>adieresis.medi.glif</string>
 		<key>adieresis.medi.salt</key>
 		<string>adieresis.medi.salt.glif</string>
+		<key>adieresis.salt</key>
+		<string>adieresis.salt.glif</string>
 		<key>ae</key>
 		<string>ae.glif</string>
 		<key>aogonek</key>
@@ -114,6 +116,8 @@
 		<string>g.isol.glif</string>
 		<key>g.medi.e</key>
 		<string>g.medi.e.glif</string>
+		<key>germandbls.isol.salt</key>
+		<string>germandbls.isol.salt.glif</string>
 		<key>germandbls.salt</key>
 		<string>germandbls.salt.glif</string>
 		<key>gravecomb</key>
@@ -166,6 +170,8 @@
 		<string>joint.oe.glif</string>
 		<key>joint.oh</key>
 		<string>joint.oh.glif</string>
+		<key>joint.qn</key>
+		<string>joint.qn.glif</string>
 		<key>joint.sschwa</key>
 		<string>joint.sschwa.glif</string>
 		<key>k</key>
@@ -196,6 +202,10 @@
 		<string>oslash.isol.glif</string>
 		<key>paragraph</key>
 		<string>paragraph.glif</string>
+		<key>percent</key>
+		<string>percent.glif</string>
+		<key>perthousand</key>
+		<string>perthousand.glif</string>
 		<key>plus</key>
 		<string>plus.glif</string>
 		<key>q.medi</key>

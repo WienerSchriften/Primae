@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ntilde" format="2">
 	<unicode hex="00D1"/>
-	<advance width="1534"/>
+	<advance width="1541"/>
 	<outline>
 		<component base="N"/>
-		<component base="tildecomb.case" xOffset="636" yOffset="690"/>
+		<component base="tildecomb.case" xOffset="643" yOffset="690"/>
 	</outline>
-	<anchor name="bottom" x="608" y="-12"/>
-	<anchor name="top" x="1114" y="2072"/>
+	<anchor name="bottom" x="615" y="-12"/>
+	<anchor name="top" x="1121" y="2072"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>

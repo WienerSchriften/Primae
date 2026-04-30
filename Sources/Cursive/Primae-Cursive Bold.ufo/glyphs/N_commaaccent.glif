@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ncommaaccent" format="2">
 	<unicode hex="0145"/>
-	<advance width="1534"/>
+	<advance width="1541"/>
 	<outline>
 		<component base="N"/>
-		<component base="commaaccentcomb.case" xOffset="280" yOffset="-12"/>
+		<component base="commaaccentcomb.case" xOffset="287" yOffset="-12"/>
 	</outline>
-	<anchor name="bottom" x="433" y="-626"/>
-	<anchor name="top" x="988" y="1600"/>
+	<anchor name="bottom" x="440" y="-626"/>
+	<anchor name="top" x="995" y="1600"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>

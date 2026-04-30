@@ -7,7 +7,7 @@
 		<key>capHeight</key>
 		<integer>1600</integer>
 		<key>copyright</key>
-		<string>Primae © 2021–2025 by Titus Nemeth and Martin Tiefenthaler is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/</string>
+		<string>Primae © 2021–2026 by Titus Nemeth and Martin Tiefenthaler is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/</string>
 		<key>descender</key>
 		<integer>-670</integer>
 		<key>familyName</key>
@@ -56,7 +56,7 @@
 			</dict>
 		</array>
 		<key>italicAngle</key>
-		<integer>0</integer>
+		<string>15</string>
 		<key>note</key>
 		<string>#########################
 
@@ -189,7 +189,7 @@ Superior letters:
 		<key>versionMajor</key>
 		<integer>2</integer>
 		<key>versionMinor</key>
-		<integer>2</integer>
+		<integer>3</integer>
 		<key>xHeight</key>
 		<integer>935</integer>
 	</dict>

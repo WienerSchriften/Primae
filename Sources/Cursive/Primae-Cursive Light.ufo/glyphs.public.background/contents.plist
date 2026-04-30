@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 	<dict>
+		<key>Adieresis</key>
+		<string>A_dieresis.glif</string>
 		<key>B_r_a_v_o_exclam_exclam_exclam</key>
 		<string>B__r_a_v_o_exclam_exclam_exclam.glif</string>
 		<key>E</key>
 		<string>E_.glif</string>
 		<key>E.isol</key>
 		<string>E_.isol.glif</string>
+		<key>Eng</key>
+		<string>E_ng.glif</string>
 		<key>Eogonek</key>
 		<string>E_ogonek.glif</string>
 		<key>Eth</key>
@@ -54,6 +58,8 @@
 		<string>adieresis.medi.glif</string>
 		<key>adieresis.medi.salt</key>
 		<string>adieresis.medi.salt.glif</string>
+		<key>adieresis.salt</key>
+		<string>adieresis.salt.glif</string>
 		<key>ae</key>
 		<string>ae.glif</string>
 		<key>ae.salt</key>
@@ -110,6 +116,10 @@
 		<string>g.medi.e.glif</string>
 		<key>gClef-musical</key>
 		<string>gC_lef-musical.glif</string>
+		<key>germandbls.isol</key>
+		<string>germandbls.isol.glif</string>
+		<key>germandbls.isol.salt</key>
+		<string>germandbls.isol.salt.glif</string>
 		<key>germandbls.salt</key>
 		<string>germandbls.salt.glif</string>
 		<key>guilsinglright</key>
@@ -164,8 +174,6 @@
 		<string>one.tosf.glif</string>
 		<key>paragraph</key>
 		<string>paragraph.glif</string>
-		<key>q</key>
-		<string>q.glif</string>
 		<key>question</key>
 		<string>question.glif</string>
 		<key>questiondown</key>

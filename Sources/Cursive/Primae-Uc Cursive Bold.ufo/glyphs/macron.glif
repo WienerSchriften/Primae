@@ -6,6 +6,7 @@
 		<component base="macroncomb"/>
 	</outline>
 	<anchor name="_center" x="317" y="1271"/>
+	<anchor name="_top" x="260" y="1005"/>
 	<anchor name="top" x="339" y="1353"/>
 	<lib>
 		<dict>

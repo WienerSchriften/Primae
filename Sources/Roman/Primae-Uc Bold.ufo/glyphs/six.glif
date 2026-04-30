@@ -28,24 +28,24 @@
 			<point x="350" y="331"/>
 			<point x="350" y="601" type="curve" smooth="yes"/>
 			<point x="350" y="971"/>
-			<point x="506" y="1199"/>
-			<point x="727" y="1199" type="curve" smooth="yes"/>
-			<point x="783" y="1199"/>
-			<point x="837" y="1188"/>
-			<point x="879" y="1174" type="curve" smooth="yes"/>
-			<point x="910" y="1164"/>
-			<point x="932" y="1158"/>
-			<point x="951" y="1158" type="curve" smooth="yes"/>
-			<point x="996" y="1158"/>
-			<point x="1041" y="1226"/>
-			<point x="1041" y="1284" type="curve" smooth="yes"/>
-			<point x="1041" y="1317"/>
-			<point x="1027" y="1337"/>
-			<point x="985" y="1361" type="curve" smooth="yes"/>
-			<point x="920" y="1398"/>
-			<point x="829" y="1424"/>
-			<point x="746" y="1424" type="curve" smooth="yes"/>
-			<point x="370" y="1424"/>
+			<point x="506" y="1200"/>
+			<point x="727" y="1200" type="curve" smooth="yes"/>
+			<point x="783" y="1200"/>
+			<point x="837" y="1189"/>
+			<point x="879" y="1175" type="curve" smooth="yes"/>
+			<point x="910" y="1165"/>
+			<point x="932" y="1159"/>
+			<point x="951" y="1159" type="curve" smooth="yes"/>
+			<point x="996" y="1159"/>
+			<point x="1041" y="1227"/>
+			<point x="1041" y="1285" type="curve" smooth="yes"/>
+			<point x="1041" y="1318"/>
+			<point x="1027" y="1338"/>
+			<point x="985" y="1362" type="curve" smooth="yes"/>
+			<point x="920" y="1399"/>
+			<point x="829" y="1425"/>
+			<point x="746" y="1425" type="curve" smooth="yes"/>
+			<point x="370" y="1425"/>
 			<point x="100" y="1078"/>
 			<point x="100" y="601" type="curve" smooth="yes"/>
 			<point x="100" y="210"/>
@@ -55,7 +55,7 @@
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2025-06-12 06:07:54 +0000</string>
+			<string>2026-04-13 13:27:13 +0000</string>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
 			<string>zero</string>
 			<key>public.markColor</key>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Uring" format="2">
 	<unicode hex="016E"/>
-	<advance width="1104"/>
+	<advance width="1093"/>
 	<outline>
 		<component base="U"/>
 		<component base="ringcomb.case" xOffset="698" yOffset="430"/>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Nacute" format="2">
 	<unicode hex="0143"/>
-	<advance width="1534"/>
+	<advance width="1541"/>
 	<outline>
 		<component base="N"/>
-		<component base="acutecomb.case" xOffset="823" yOffset="690"/>
+		<component base="acutecomb.case" xOffset="830" yOffset="690"/>
 	</outline>
-	<anchor name="bottom" x="608" y="-12"/>
-	<anchor name="top" x="1190" y="2143"/>
+	<anchor name="bottom" x="615" y="-12"/>
+	<anchor name="top" x="1197" y="2143"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>

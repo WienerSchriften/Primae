@@ -143,7 +143,7 @@
 			<key>public.kern2.j</key>
 			<integer>30</integer>
 			<key>public.kern2.o</key>
-			<integer>-30</integer>
+			<integer>0</integer>
 			<key>public.kern2.schwa</key>
 			<integer>-30</integer>
 			<key>public.kern2.x</key>

@@ -63,8 +63,6 @@
 				<integer>-527</integer>
 			</dict>
 		</array>
-		<key>italicAngle</key>
-		<integer>0</integer>
 		<key>note</key>
 		<string>#########################
 
@@ -127,8 +125,6 @@ Superior letters:
 		<string>Wiener Schriften</string>
 		<key>openTypeNameManufacturerURL</key>
 		<string>https://www.wienerschriften.at</string>
-		<key>openTypeNamePreferredSubfamilyName</key>
-		<string>Light</string>
 		<key>openTypeOS2Selection</key>
 		<array>
 			<integer>7</integer>
@@ -187,6 +183,8 @@ Superior letters:
 		</array>
 		<key>postscriptFontName</key>
 		<string>Primae-Light</string>
+		<key>postscriptFullName</key>
+		<string>Primae Light</string>
 		<key>postscriptOtherBlues</key>
 		<array>
 			<integer>-690</integer>
@@ -200,8 +198,6 @@ Superior letters:
 		<integer>-300</integer>
 		<key>postscriptUnderlineThickness</key>
 		<integer>80</integer>
-		<key>styleMapFamilyName</key>
-		<string>Primæ Light</string>
 		<key>styleMapStyleName</key>
 		<string>regular</string>
 		<key>styleName</key>
@@ -211,7 +207,7 @@ Superior letters:
 		<key>versionMajor</key>
 		<integer>2</integer>
 		<key>versionMinor</key>
-		<integer>2</integer>
+		<integer>3</integer>
 		<key>xHeight</key>
 		<integer>935</integer>
 	</dict>

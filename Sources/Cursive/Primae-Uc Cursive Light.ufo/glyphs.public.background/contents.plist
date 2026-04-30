@@ -10,6 +10,8 @@
 		<string>B__r_a_v_o_exclam_exclam_exclam.glif</string>
 		<key>E.isol</key>
 		<string>E_.isol.glif</string>
+		<key>Eng</key>
+		<string>E_ng.glif</string>
 		<key>Eogonek</key>
 		<string>E_ogonek.glif</string>
 		<key>Eth</key>
@@ -32,6 +34,8 @@
 		<string>L_.swsh.glif</string>
 		<key>Lslash</key>
 		<string>L_slash.glif</string>
+		<key>N</key>
+		<string>N_.glif</string>
 		<key>OE</key>
 		<string>O_E_.glif</string>
 		<key>Oslash</key>
@@ -168,8 +172,8 @@
 		<string>oe.glif</string>
 		<key>one.tosf</key>
 		<string>one.tosf.glif</string>
-		<key>q</key>
-		<string>q.glif</string>
+		<key>perthousand</key>
+		<string>perthousand.glif</string>
 		<key>question</key>
 		<string>question.glif</string>
 		<key>questiondown</key>

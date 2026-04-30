@@ -1,4 +1,14 @@
 # Release notes
+## version 2.003 created 2026/04/30
+### Upright ###
+* corrected height of % in text styles
+* improved cap kerning FA
+### Cursive ###
+* corrected height of % in text styles
+* added unconnected germandbls, appended it to feature cv01
+* changed N to single stroke construction
+* minor consistency changes of outstroke of ä, ö, ü in isolated form
+
 ## version 2.002 created 2025/10/18
 * added DOT OPERATOR (U+22C5) glyph 
 * adjusted height of currency symbols to match figures in Primæ Text
